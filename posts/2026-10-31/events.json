@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "Z698xZbpZ16v86FpvV",
+      "name": "Dé theatersensatie Harry Potter",
+      "url": "https://www.ticketmaster.nl/event/de-theatersensatie-harry-potter-tickets/1407216074?language=en-us",
+      "date": "2026-12-11",
+      "time": "19:00:00",
+      "venue": "AFAS Cirus Theater",
+      "city": "Den Haag",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917p1_0",
+      "image": "https://s1.ticketm.net/dam/a/fe1/e1a3cb8b-1a55-4030-899c-73dba790efe1_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1kb0fPe3",
+      "name": "Trevor Wallace - The Alpha Beta Male",
+      "url": "https://www.ticketmaster.de/event/trevor-wallace-the-alpha-beta-male-tickets/624525092?language=en-us",
+      "date": "2026-11-04",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917b1aV",
+      "image": "https://s1.ticketm.net/dam/a/216/c886cd5c-a794-4091-a7ea-7ccb7d709216_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vk44z-6",
+      "name": "Kodaline - Farewell Tour",
+      "url": "https://www.ticketmaster.de/event/kodaline-farewell-tour-tickets/1195578847?language=en-us",
+      "date": "2026-12-09",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Cologne",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ9178kh7",
+      "image": "https://s1.ticketm.net/dam/a/d28/3965f000-e48b-480e-9ffa-e10c52770d28_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "G5vYZ_k28tffu",
+      "name": "San Francisco 49ers vs. Las Vegas Raiders",
+      "url": "https://www.ticketmaster.com/san-francisco-49ers-vs-las-vegas-santa-clara-california-11-08-2026/event/1C006463D0A5450D",
+      "date": "2026-11-08",
+      "time": "13:25:00",
+      "venue": "Levi's® Stadium",
+      "city": "Santa Clara",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171oMV",
+      "image": "https://s1.ticketm.net/dam/a/b7d/d7460515-712c-4e09-b404-69c1b86e7b7d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZbpZ1kjo_P0k",
+      "name": "Mogwai 30",
+      "url": "https://www.ticketmaster.nl/event/mogwai-30-tickets/711665906?language=en-us",
+      "date": "2026-11-10",
+      "time": "19:45:00",
+      "venue": "TivoliVredenburg",
+      "city": "Utrecht",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "category": "Music",
+      "attractionId": "K8vZ9171ccf",
+      "image": "https://s1.ticketm.net/dam/a/274/47ffdc97-0a17-4a78-b2a4-9f717396e274_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Dé theatersensatie Harry Potter, Den Haag, Netherlands, Fri 11 Dec. Image: Ticketmaster.",
+    "Trevor Wallace - The Alpha Beta Male, Berlin, Germany, Wed 4 Nov. Image: Ticketmaster.",
+    "Kodaline - Farewell Tour, Cologne, Germany, Wed 9 Dec. Image: Ticketmaster.",
+    "San Francisco 49ers vs. Las Vegas Raiders, Santa Clara, United States Of America, Sun 8 Nov. Image: Ticketmaster.",
+    "Mogwai 30, Utrecht, Netherlands, Tue 10 Nov. Image: Ticketmaster."
+  ]
+}
