@@ -1,0 +1,53 @@
+name: Publish draft to Instagram
+
+# This is the "approve" button. Open the Actions tab, pick this workflow, tap "Run workflow".
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Draft date YYYY-MM-DD (leave empty for the newest draft)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: askfindme-social
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Publish
+        env:
+          OUT_DIR: posts
+          PUBLIC_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/posts
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          WHATSAPP: ${{ vars.WHATSAPP }}
+          DRAFT_DATE: ${{ inputs.date }}
+        run: |
+          if [ -n "$DRAFT_DATE" ]; then
+            node src/publish.js --date "$DRAFT_DATE"
+          else
+            node src/publish.js
+          fi
+
+      - name: Remember that it was published
+        run: |
+          git config user.name "askfindme-bot"
+          git config user.email "support@askfindme.com"
+          git add posts
+          git commit -m "Published draft" || echo "nothing to commit"
+          git push

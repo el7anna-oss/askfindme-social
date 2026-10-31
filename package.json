@@ -1,0 +1,22 @@
+{
+  "name": "askfindme-social",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily Instagram carousel for askfindme: 5 events from Ticketmaster (Europe + USA), draft mode first.",
+  "scripts": {
+    "draft": "node src/draft.js",
+    "draft:mock": "node src/draft.js --mock",
+    "profile": "node src/profile.js",
+    "publish:dry": "node src/publish.js --dry",
+    "publish": "node src/publish.js",
+    "notify:dry": "node src/notify.js --dry",
+    "test:publish": "node test/publish.test.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}

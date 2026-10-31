@@ -1,0 +1,70 @@
+name: Daily draft
+
+# Builds the day's carousel, saves it in the repo (so Instagram can download the images),
+# and emails you. It does NOT post unless you set the repository variable AUTO_PUBLISH to true.
+on:
+  schedule:
+    - cron: "0 7 * * *" # 07:00 UTC every day (09:00 or 10:00 in Beirut)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: askfindme-social
+  cancel-in-progress: false
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm install --no-audit --no-fund
+
+      - run: npx playwright install --with-deps chromium
+
+      - name: Build the draft
+        env:
+          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+          OUT_DIR: posts
+          IMAGE_MODE: ${{ vars.IMAGE_MODE || 'photo' }}
+          MARKETS: ${{ vars.MARKETS || 'US,GB,DE,ES,NL,IE' }}
+          WHATSAPP: ${{ vars.WHATSAPP }}
+        run: node src/draft.js --remember
+
+      - name: Save the draft in the repo
+        run: |
+          git config user.name "askfindme-bot"
+          git config user.email "support@askfindme.com"
+          git add posts data
+          git commit -m "Draft $(date -u +%F)" || echo "nothing to commit"
+          git push
+
+      - name: Email me the draft
+        env:
+          OUT_DIR: posts
+          PUBLIC_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/posts
+          PUBLISH_URL: https://github.com/${{ github.repository }}/actions/workflows/publish.yml
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          NOTIFY_EMAIL: ${{ vars.NOTIFY_EMAIL }}
+        run: node src/notify.js
+
+      - name: Publish automatically (only when AUTO_PUBLISH is true)
+        if: ${{ vars.AUTO_PUBLISH == 'true' }}
+        env:
+          OUT_DIR: posts
+          PUBLIC_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/posts
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          WHATSAPP: ${{ vars.WHATSAPP }}
+        run: |
+          node src/publish.js
+          git add posts
+          git commit -m "Published $(date -u +%F)" || echo "nothing to commit"
+          git push
