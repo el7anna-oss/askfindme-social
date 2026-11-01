@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "1AdOZ_kGkUHawCY",
+      "name": "Niall Horan: Dinner Party Live On Tour",
+      "url": "https://www.ticketmaster.ie/niall-horan-dinner-party-live-on-belfast-15-11-2026/event/3800646DBC2723B0",
+      "date": "2026-11-15",
+      "time": "20:00:00",
+      "venue": "The O2 Belfast",
+      "city": "Belfast",
+      "countryCode": "GB",
+      "country": "Great Britain",
+      "category": "Music",
+      "attractionId": "K8vZ9174OHV",
+      "image": "https://s1.ticketm.net/dam/a/5bb/da26c21d-b562-463a-bcd8-14187f97a5bb_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "G5eVZ_kmgHm-g",
+      "name": "Carolina Panthers v Baltimore Ravens",
+      "url": "https://www.ticketmaster.com/carolina-panthers-v-baltimore-ravens-charlotte-north-carolina-11-22-2026/event/2D00646BB5F2E875",
+      "date": "2026-11-22",
+      "time": "13:00:00",
+      "venue": "Bank of America Stadium",
+      "city": "Charlotte",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171oPf",
+      "image": "https://s1.ticketm.net/dam/e/868/c555536b-daa2-4a80-96e8-47738dae7868_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18Ql24wzK37t1l85e_",
+      "name": "ELS MEMORABLES presenten BROADWAY–BARCELONA",
+      "url": "https://www.universe.com/events/els-memorables-presenten-broadway-barcelona-tickets-LQN6FM?ref=ticketmaster",
+      "date": "2026-11-12",
+      "time": "20:00:00",
+      "venue": "Aclam Club",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ91744W7",
+      "image": "https://images.universe.com/9adfa4e8-3baa-45de-baed-3d53b7e36fee/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageWidth": 1024,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZ2qZ1kjd0_ZM",
+      "name": "Jack & Jack: SYN/ANTI EUROPE 2026",
+      "url": "https://www.ticketmaster.es/event/jack--jack-syn-anti-europe-2026-tickets/703919037?language=en-us",
+      "date": "2026-11-16",
+      "time": "20:30:00",
+      "venue": "Sala Razzmatazz 2",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ9173IQ7",
+      "image": "https://s1.ticketm.net/dam/a/e64/c3f4621e-687a-4323-8f0e-f9f619ab3e64_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "169ZkfkvMZA52av2",
+      "name": "THURSDAY - HEINEKEN SILVER MAIN GRANDSTAND",
+      "url": "https://www.ticketmaster.com/thursday-heineken-silver-main-grandstand-las-vegas-nevada-11-19-2026/event/17006506077AE80E",
+      "date": "2026-11-19",
+      "time": "16:30:00",
+      "venue": "East Harmon Zone",
+      "city": "Las Vegas",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ917QnH7",
+      "image": "https://s1.ticketm.net/dam/a/2ec/8acf8dc4-31ec-4416-a738-a79e9a0b22ec_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Niall Horan: Dinner Party Live On Tour, Belfast, Great Britain, Sun 15 Nov. Image: Ticketmaster.",
+    "Carolina Panthers v Baltimore Ravens, Charlotte, United States Of America, Sun 22 Nov. Image: Ticketmaster.",
+    "ELS MEMORABLES presenten BROADWAY–BARCELONA, Barcelona, Spain, Thu 12 Nov. Image: Ticketmaster.",
+    "Jack & Jack: SYN/ANTI EUROPE 2026, Barcelona, Spain, Mon 16 Nov. Image: Ticketmaster.",
+    "THURSDAY - HEINEKEN SILVER MAIN GRANDSTAND, Las Vegas, United States Of America, Thu 19 Nov. Image: Ticketmaster."
+  ]
+}
