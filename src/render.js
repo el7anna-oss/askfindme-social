@@ -75,7 +75,7 @@ function eventSlide(e, index, total, cfg) {
   ${photo ? `<img class="bgblur" src="${esc(e.image)}" onerror="this.remove()" />` : `<div class="bigcity">${esc(e.city)}</div>`}
   <div class="shade2"></div>
   ${photo ? `<div class="card"><img src="${esc(e.image)}" onerror="this.parentElement.remove()" /></div>` : ""}
-  <div class="top">${logoHtml(52)}<div class="chip">${esc(e.category || "Event")} \u00b7 ${index + 1}/${total}</div></div>
+   <div class="top">${logoHtml(52)}</div>
   ${
     photo
       ? `<div class="mid">
