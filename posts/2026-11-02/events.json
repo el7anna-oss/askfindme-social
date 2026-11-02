@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "1AvOZ_FGkn52BxO",
+      "name": "Noah Kahan - The Great Divide Tour",
+      "url": "https://www.ticketmaster.ie/noah-kahan-the-great-divide-tour-dublin-19-11-2026/event/1800648A8B3FA8A0",
+      "date": "2026-11-19",
+      "time": "18:30:00",
+      "venue": "3Arena",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917pAzf",
+      "image": "https://s1.ticketm.net/dam/a/b32/410e23ca-ee21-4238-bdfb-ca99edcd3b32_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AbZko_GkeJ_HiZ",
+      "name": "Drake Milligan - Tumbleweed World Tour",
+      "url": "https://www.ticketmaster.ie/drake-milligan-tumbleweed-world-tour-dublin-24-11-2026/event/18006459A667CB00",
+      "date": "2026-11-24",
+      "time": "20:00:00",
+      "venue": "Vicar Street",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917QmdV",
+      "image": "https://s1.ticketm.net/dam/a/915/ae8f5713-11d1-44c0-bb59-cde226e76915_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18QbdQ1xa_48ZwM_LQ",
+      "name": "Ali Siddiq live at Boom Chicago, Amsterdam",
+      "url": "https://www.universe.com/events/ali-siddiq-live-at-boom-chicago-amsterdam-tickets-7DW5GM?ref=ticketmaster",
+      "date": "2026-11-06",
+      "time": "21:00:00",
+      "venue": "Boom Chicago",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917oPEf",
+      "image": "https://s1.ticketm.net/dam/a/8b9/0a83a81b-0da6-4434-9b7d-4e59027c58b9_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZ2qZ1kf3Jk0a",
+      "name": "Jay Wheeler",
+      "url": "https://www.ticketmaster.es/event/jay-wheeler-tickets/512986909?language=en-us",
+      "date": "2026-12-07",
+      "time": "20:30:00",
+      "venue": "Palacio de Dep. Martín Carpena",
+      "city": "Málaga",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ917_hEf",
+      "image": "https://s1.ticketm.net/dam/a/132/db71831d-3528-4604-abe7-9bda01190132_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZ2qZ16vqV1dka",
+      "name": "Hombres G - Los Mejores Años de nuestra vida",
+      "url": "https://www.ticketmaster.es/event/hombres-g-los-mejores-anos-de-nuestra-vida-tickets/1774283189?language=en-us",
+      "date": "2026-11-28",
+      "time": "21:00:00",
+      "venue": "Navarra Arena",
+      "city": "Pamplona/Iruña",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ9171sp7",
+      "image": "https://s1.ticketm.net/dam/a/9ea/e6e2100f-dfc7-4686-8b20-9cd597bb69ea_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Noah Kahan - The Great Divide Tour, Dublin, Ireland, Thu 19 Nov. Image: Ticketmaster.",
+    "Drake Milligan - Tumbleweed World Tour, Dublin, Ireland, Tue 24 Nov. Image: Ticketmaster.",
+    "Ali Siddiq live at Boom Chicago, Amsterdam, Amsterdam, Netherlands, Fri 6 Nov. Image: Ticketmaster.",
+    "Jay Wheeler, Málaga, Spain, Mon 7 Dec. Image: Ticketmaster.",
+    "Hombres G - Los Mejores Años de nuestra vida, Pamplona/Iruña, Spain, Sat 28 Nov. Image: Ticketmaster."
+  ]
+}
