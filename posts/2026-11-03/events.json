@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "Z698xZC2Z1kAPFg-8",
+      "name": "Mammoth",
+      "url": "https://www.ticketmaster.de/event/mammoth-tickets/165235850?language=en-us",
+      "date": "2026-12-10",
+      "time": "20:00:00",
+      "venue": "Der Hirsch",
+      "city": "Nürnberg",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917_9Z7",
+      "image": "https://s1.ticketm.net/dam/a/deb/901247e2-b614-46dd-b7be-3f2dde7ffdeb_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AvOZ_kGkRpZwxh",
+      "name": "The Fray: Autumn Light Tour",
+      "url": "https://www.ticketmaster.ie/the-fray-autumn-light-tour-dublin-12-11-2026/event/1800646BD603289B",
+      "date": "2026-11-12",
+      "time": "19:00:00",
+      "venue": "National Stadium",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ9175zZV",
+      "image": "https://s1.ticketm.net/dam/a/fb7/82880e49-db34-48d0-814d-b3d2f465bfb7_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1A9ZkfAGkeN6nkO",
+      "name": "THURSDAY - TURN 3 CLUB",
+      "url": "https://www.ticketmaster.com/thursday-turn-3-club-las-vegas-nevada-11-19-2026/event/17006505A31EA1A0",
+      "date": "2026-11-19",
+      "time": "16:30:00",
+      "venue": "East Harmon Zone",
+      "city": "Las Vegas",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ917QnH7",
+      "image": "https://s1.ticketm.net/dam/a/2ec/8acf8dc4-31ec-4416-a738-a79e9a0b22ec_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1A9Zk3dGkdpXRsr",
+      "name": "Eagles Live at Sphere",
+      "url": "https://www.ticketmaster.com/eagles-live-at-sphere-las-vegas-nevada-12-05-2026/event/17006483D6FAFC5E",
+      "date": "2026-12-05",
+      "time": "20:30:00",
+      "venue": "Sphere",
+      "city": "Las Vegas",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Music",
+      "attractionId": "K8vZ9171ob7",
+      "image": "https://s1.ticketm.net/dam/a/531/e32ef1da-b869-442c-9357-428baa6f0531_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18Q-OcxxW3lOZv6CEr",
+      "name": "Museo Banksy Madrid",
+      "url": "https://www.universe.com/events/museo-banksy-madrid-tickets-X38GZF?ref=ticketmaster",
+      "date": "2026-11-06",
+      "time": "16:00:00",
+      "venue": "Museo Banksy Madrid",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917ry37",
+      "image": "https://images.universe.com/f899bfae-9c90-4178-93c8-20c27886199a/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageWidth": 1024,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Mammoth, Nürnberg, Germany, Thu 10 Dec. Image: Ticketmaster.",
+    "The Fray: Autumn Light Tour, Dublin, Ireland, Thu 12 Nov. Image: Ticketmaster.",
+    "THURSDAY - TURN 3 CLUB, Las Vegas, United States Of America, Thu 19 Nov. Image: Ticketmaster.",
+    "Eagles Live at Sphere, Las Vegas, United States Of America, Sat 5 Dec. Image: Ticketmaster.",
+    "Museo Banksy Madrid, Madrid, Spain, Fri 6 Nov. Image: Ticketmaster."
+  ]
+}
