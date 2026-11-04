@@ -7,6 +7,7 @@ import path from "node:path";
 import { config } from "./config.js";
 import { fetchAll } from "./ticketmaster.js";
 import { pickEvents } from "./pick.js";
+import { loadHistory } from "./history.js";
 import { buildCaption, buildAltTexts } from "./caption.js";
 import { renderCarousel } from "./render.js";
 import { mockEvents } from "./mock.js";
@@ -30,6 +31,15 @@ try {
   // no history yet
 }
 
+// Today's folder: if it was already published, stop before doing anything (no new draft, no email)
+const day = new Date().toISOString().slice(0, 10);
+const outDir = path.join(root, config.outDir, day);
+const alreadyPublished = await readFile(path.join(outDir, "PUBLISHED.json"), "utf8").catch(() => "");
+if (alreadyPublished && !flag("force")) {
+  console.error(`Today's draft (${day}) was already published, so it is not rebuilt. Use --force to overwrite.`);
+  process.exit(0);
+}
+
 let events;
 if (mock) {
   console.log("Mock mode: using sample events");
@@ -43,10 +53,14 @@ if (mock) {
   events = await fetchAll(config);
 }
 
+// Earlier days, read from the saved drafts (posts/ in GitHub, output/ on this computer)
+const seen = await loadHistory({ dirs: [path.join(root, "posts"), path.join(root, config.outDir)], today: day, skipDate: day });
 const chosen = pickEvents(events, {
   count,
   seed,
-  history,
+  history: [...history, ...seen.ids],
+  avoidNames: seen.names,
+  avoidAttractions: seen.attractions,
   categories: config.categories,
   requireImage: config.imageMode === "photo",
 });
@@ -55,13 +69,6 @@ if (chosen.length < 3) {
   process.exit(1);
 }
 
-const day = new Date().toISOString().slice(0, 10);
-const outDir = path.join(root, config.outDir, day);
-const alreadyPublished = await readFile(path.join(outDir, "PUBLISHED.json"), "utf8").catch(() => "");
-if (alreadyPublished && !flag("force")) {
-  console.error(`Today's draft (${day}) was already published, so it is not rebuilt. Use --force to overwrite.`);
-  process.exit(0);
-}
 await rm(outDir, { recursive: true, force: true }); // each run starts clean, no old images left behind
 await mkdir(outDir, { recursive: true });
 

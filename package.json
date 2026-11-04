@@ -11,7 +11,8 @@
     "publish:dry": "node src/publish.js --dry",
     "publish": "node src/publish.js",
     "notify:dry": "node src/notify.js --dry",
-    "test:publish": "node test/publish.test.js"
+    "test:publish": "node test/publish.test.js",
+    "test:history": "node test/history.test.js"
   },
   "engines": {
     "node": ">=22"

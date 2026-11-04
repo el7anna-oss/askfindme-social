@@ -10,7 +10,7 @@ function mulberry32(seed) {
   };
 }
 
-const baseName = (n) =>
+export const baseName = (n) =>
   n
     .toLowerCase()
     .replace(/\s+[-–|:]\s+.*$/, "")
@@ -22,20 +22,30 @@ const BLOCK_WORDS = [
   "package", "vip", "parking", "hospitality", "upgrade", "meet & greet", "meet and greet",
   "voucher", "gift card", "lounge", "add-on", "add on", "fast pass", "fastpass", "premium seat",
   "camping", "shuttle", "merch", "donation", "cancelled", "canceled", "postponed", "rescheduled",
-  "guided tour", "museum", "visita", "entrada",
+  "guided tour", "museum", "museo", "exhibition", "exposition", "exposicion", "visita", "entrada",
+  "general admission", "grandstand", "zone at", "day pass", "season ticket",
 ];
+
+// Ticket types, not events: "3-DAY GA - ...", "THURSDAY - TURN 3 CLUB", "SATURDAY - ..."
+const TICKET_TYPE = /^(\d+[- ]?day\b|(mon|tues|wednes|thurs|fri|satur|sun)day\s*[-–:])/i;
 
 export function pickEvents(
   events,
-  { count = 5, seed = null, history = [], maxPerCountry = 2, categories = [], requireImage = true } = {}
+  { count = 5, seed = null, history = [], avoidNames = [], avoidAttractions = [], maxPerCountry = 2, categories = [], requireImage = true } = {}
 ) {
   const rand = seed === null ? Math.random : mulberry32(seed);
   const seenHistory = new Set(history);
+  const seenNames = new Set(avoidNames);
+  const seenAttractions = new Set(avoidAttractions);
 
   const usable = events.filter((e) => {
     if (!(e.id && e.name && e.url && e.date && e.city)) return false;
     if (requireImage && !e.image) return false;
     if (seenHistory.has(e.id)) return false;
+    // the same show on another date or in another city has another id: it counts as already posted
+    if (seenNames.has(baseName(e.name))) return false;
+    if (e.attractionId && seenAttractions.has(e.attractionId)) return false;
+    if (TICKET_TYPE.test(e.name.trim())) return false;
     if (categories.length && !categories.includes((e.category || "").toUpperCase())) return false;
     const n = e.name.toLowerCase();
     return !BLOCK_WORDS.some((w) => n.includes(w));

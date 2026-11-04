@@ -13,6 +13,11 @@ const esc = (s = "") => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").r
 
 const date = await resolveDraftDate(config.outDir, argValue(args, "date"));
 const dir = path.join(root, config.outDir, date);
+// An already published draft is not emailed again as "ready to approve"
+if (!args.includes("--force") && (await readFile(path.join(dir, "PUBLISHED.json"), "utf8").catch(() => ""))) {
+  console.log(`The ${date} draft was already published, so no email is sent.`);
+  process.exit(0);
+}
 const caption = await readFile(path.join(dir, "caption.txt"), "utf8");
 const meta = JSON.parse(await readFile(path.join(dir, "events.json"), "utf8"));
 
