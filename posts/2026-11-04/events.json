@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "LvZ18Q-OcxxW3lOZv6CEH",
+      "name": "Museo Banksy Madrid",
+      "url": "https://www.universe.com/events/museo-banksy-madrid-tickets-X38GZF?ref=ticketmaster",
+      "date": "2026-11-09",
+      "time": "16:00:00",
+      "venue": "Museo Banksy Madrid",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917ry37",
+      "image": "https://images.universe.com/f899bfae-9c90-4178-93c8-20c27886199a/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageWidth": 1024,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vAbf0op",
+      "name": "J. Cole: The Fall-Off Tour",
+      "url": "https://www.ticketmaster.de/event/j-cole-the-fall-off-tour-tickets/1158524456?language=en-us",
+      "date": "2026-11-08",
+      "time": "20:00:00",
+      "venue": "Barclays Arena",
+      "city": "Hamburg",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917Gi6V",
+      "image": "https://s1.ticketm.net/dam/a/00a/087c7d8e-2940-4e0a-9600-f85e2193000a_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "17AYv0G616_msQY",
+      "name": "3-DAY GA - T-MOBILE ZONE AT SPHERE",
+      "url": "https://am.ticketmaster.com/lvgp/buy/2026SPHEREGA",
+      "date": "2026-11-19",
+      "time": "",
+      "venue": "T-Mobile Zone at Sphere",
+      "city": "Las Vegas",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ917QnH7",
+      "image": "https://s1.ticketm.net/dam/a/2ec/8acf8dc4-31ec-4416-a738-a79e9a0b22ec_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZ2qZ1ko_8so3",
+      "name": "Hard GZ",
+      "url": "https://www.ticketmaster.es/event/hard-gz-tickets/459431452?language=en-us",
+      "date": "2026-11-07",
+      "time": "21:00:00",
+      "venue": "Sala Repvblicca",
+      "city": "Mislata",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ917ry27",
+      "image": "https://s1.ticketm.net/dam/a/c9b/4ed9fb1d-f8a6-49f9-8d45-1a3c41a82c9b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1FkZvNbypoZ7GA1e",
+      "name": "Mrs. Doubtfire",
+      "url": "https://www.ticketmaster.ie/mrs-doubtfire-dublin-16-12-2026/event/180063639591B491",
+      "date": "2026-12-16",
+      "time": "19:30:00",
+      "venue": "Bord Gais Energy Theatre",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917h4YV",
+      "image": "https://s1.ticketm.net/dam/a/190/5ad6dc40-d46d-4903-9ccb-632678bc4190_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Museo Banksy Madrid, Madrid, Spain, Mon 9 Nov. Image: Ticketmaster.",
+    "J. Cole: The Fall-Off Tour, Hamburg, Germany, Sun 8 Nov. Image: Ticketmaster.",
+    "3-DAY GA - T-MOBILE ZONE AT SPHERE, Las Vegas, United States Of America, Thu 19 Nov. Image: Ticketmaster.",
+    "Hard GZ, Mislata, Spain, Sat 7 Nov. Image: Ticketmaster.",
+    "Mrs. Doubtfire, Dublin, Ireland, Wed 16 Dec. Image: Ticketmaster."
+  ]
+}
