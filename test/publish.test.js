@@ -31,7 +31,8 @@ let r = await run("draft.js", ["--mock", "--seed", "5"]);
 assert.equal(r.status, 0, r.stderr + r.stdout);
 const date = (await readdir(outAbs))[0];
 const jpgs = (await readdir(path.join(outAbs, date))).filter((f) => f.endsWith(".jpg"));
-assert.equal(jpgs.length, 7, "cover + 5 events + contact");
+assert.equal(jpgs.length, 5, "5 events only: no cover, no contact slide");
+assert.ok(!jpgs.some((f) => /cover|contact/.test(f)));
 
 // 2. fake servers
 const calls = [];
@@ -80,11 +81,11 @@ assert.equal(calls.length, 0, "dry run must not call Instagram");
 r = await run("publish.js", [], env);
 assert.equal(r.status, 0, r.stderr + r.stdout);
 const posts = calls.filter((c) => c.method === "POST");
-assert.equal(posts.length, 7 + 1 + 1, "7 items + carousel + publish");
-assert.ok(posts.slice(0, 7).every((c) => c.json.is_carousel_item === true && c.json.image_url.startsWith(env.PUBLIC_BASE_URL)));
-assert.equal(posts[7].json.media_type, "CAROUSEL");
-assert.equal(posts[7].json.children.split(",").length, 7);
-assert.ok(posts[7].json.caption.includes("Ticketmaster"));
+assert.equal(posts.length, 5 + 1 + 1, "5 items + carousel + publish");
+assert.ok(posts.slice(0, 5).every((c) => c.json.is_carousel_item === true && c.json.image_url.startsWith(env.PUBLIC_BASE_URL)));
+assert.equal(posts[5].json.media_type, "CAROUSEL");
+assert.equal(posts[5].json.children.split(",").length, 5);
+assert.ok(posts[5].json.caption.includes("Ticketmaster"));
 assert.ok(posts.every((c) => c.auth === "Bearer TEST_TOKEN_NOT_REAL"));
 assert.ok(!r.stdout.includes("TEST_TOKEN") && !r.stderr.includes("TEST_TOKEN"), "token must never be printed");
 const marker = JSON.parse(await readFile(path.join(outAbs, date, "PUBLISHED.json"), "utf8"));

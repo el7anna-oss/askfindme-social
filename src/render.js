@@ -109,13 +109,16 @@ function ctaSlide(cfg) {
 
 export async function renderCarousel(events, cfg, outDir) {
   await mkdir(outDir, { recursive: true });
+  const withCover = cfg.slides?.cover === true;
+  const withContact = cfg.slides?.contact === true;
+  const first = withCover ? 2 : 1; // file number of the first event, so the files stay in order
   const slides = [
-    { name: "01-cover", html: coverSlide(events.length) },
+    ...(withCover ? [{ name: "01-cover", html: coverSlide(events.length) }] : []),
     ...events.map((e, i) => ({
-      name: `${String(i + 2).padStart(2, "0")}-${e.id.replace(/[^a-z0-9]/gi, "").slice(0, 12)}`,
+      name: `${String(i + first).padStart(2, "0")}-${e.id.replace(/[^a-z0-9]/gi, "").slice(0, 12)}`,
       html: eventSlide(e, i, events.length, cfg),
     })),
-    { name: `${String(events.length + 2).padStart(2, "0")}-contact`, html: ctaSlide(cfg) },
+    ...(withContact ? [{ name: `${String(events.length + first).padStart(2, "0")}-contact`, html: ctaSlide(cfg) }] : []),
   ];
 
   const browser = await chromium.launch();

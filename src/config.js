@@ -17,6 +17,7 @@ const num = (v, fallback) => {
 };
 
 const str = (v, fallback = "") => (v ?? "").toString().trim() || fallback;
+const yes = (v, fallback) => (v === undefined || v === "" ? fallback : /^(1|true|yes|on)$/i.test(String(v).trim()));
 
 const igHost = str(process.env.IG_API_HOST, "graph.facebook.com");
 const igVersion = str(process.env.IG_API_VERSION, "v26.0");
@@ -29,6 +30,8 @@ export const config = {
   categories: list(process.env.CATEGORIES, "MUSIC,SPORTS,ARTS & THEATRE"),
   // photo = event image in a framed card; plain = branded text-only cards (no Ticketmaster photos)
   imageMode: str(process.env.IMAGE_MODE, "photo").toLowerCase() === "plain" ? "plain" : "photo",
+  // the carousel is the events only. Set COVER_SLIDE=true / CONTACT_SLIDE=true to add the first (askfindme title) or last (contact) image back
+  slides: { cover: yes(process.env.COVER_SLIDE, false), contact: yes(process.env.CONTACT_SLIDE, false) },
   site: str(process.env.SITE, "askfindme.com"),
   email: str(process.env.CONTACT_EMAIL, "support@askfindme.com"),
   whatsapp: str(process.env.WHATSAPP).replace(/\D/g, ""),

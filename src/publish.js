@@ -36,11 +36,13 @@ try {
 } catch {
   // alt texts are optional
 }
-// cover + one per event + contact slide
+// the cover and contact slides are optional: the alt texts follow the images that are really in the draft
+const hasCover = files.some((f) => f.endsWith("-cover.jpg"));
+const hasContact = files.some((f) => f.endsWith("-contact.jpg"));
 const altTexts = [
-  "askfindme: events worth the flight",
+  ...(hasCover ? ["askfindme: events worth the flight"] : []),
   ...alts,
-  `Contact askfindme: ${config.site}, ${config.email}`,
+  ...(hasContact ? [`Contact askfindme: ${config.site}, ${config.email}`] : []),
 ].slice(0, files.length);
 
 const missing = [];
