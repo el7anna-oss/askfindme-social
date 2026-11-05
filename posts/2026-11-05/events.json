@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "17kZv0G65gB2hjO",
+      "name": "Walk off the Earth",
+      "url": "https://www.ticketmaster.ie/walk-off-the-earth-dublin-08-11-2026/event/180064BD7A3DB720",
+      "date": "2026-11-08",
+      "time": "19:00:00",
+      "venue": "Opium",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ9172j-V",
+      "image": "https://s1.ticketm.net/dam/a/c62/df5c0eca-31d6-4066-a29d-9183518a4c62_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1kQfJA-S",
+      "name": "ARLO PARKS - DESIRE TOUR",
+      "url": "https://www.ticketmaster.de/event/arlo-parks-desire-tour-tickets/694985873?language=en-us",
+      "date": "2026-11-16",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Munich",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917b5c7",
+      "image": "https://s1.ticketm.net/dam/a/492/744f8651-20a1-4b0e-a868-7f7ff5e9a492_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZbpZ1kP3vs-0",
+      "name": "Artemas",
+      "url": "https://www.ticketmaster.nl/event/artemas-tickets/952071864?language=en-us",
+      "date": "2026-12-05",
+      "time": "19:00:00",
+      "venue": "Melkweg",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "category": "Music",
+      "attractionId": "K8vZ917QYD7",
+      "image": "https://s1.ticketm.net/dam/a/2ec/1db3f5b8-3900-4c18-a2c1-25feeb1d42ec_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "G5diZ_2ksMfoq",
+      "name": "New York Rangers vs. Calgary Flames",
+      "url": "https://www.ticketmaster.com/new-york-rangers-vs-calgary-flames-new-york-new-york-11-28-2026/event/3B0064F1B1DD445D",
+      "date": "2026-11-28",
+      "time": "19:00:00",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171o87",
+      "image": "https://s1.ticketm.net/dam/a/ea0/6f2e2a07-db6a-4f14-85ed-ee9ec4970ea0_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "17kZv0G62psTcrG",
+      "name": "Tommy Tiernan - World Tour of Galway",
+      "url": "https://www.ticketmaster.ie/tommy-tiernan-world-tour-of-galway-galway-11-12-2026/event/180064F5B1FED78C",
+      "date": "2026-12-11",
+      "time": "20:00:00",
+      "venue": "LEISURELAND",
+      "city": "Galway",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ9175tyV",
+      "image": "https://s1.ticketm.net/dam/a/a06/887da6f4-e3d6-4457-96fa-d1b02c643a06_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Walk off the Earth, Dublin, Ireland, Sun 8 Nov. Image: Ticketmaster.",
+    "ARLO PARKS - DESIRE TOUR, Munich, Germany, Mon 16 Nov. Image: Ticketmaster.",
+    "Artemas, Amsterdam, Netherlands, Sat 5 Dec. Image: Ticketmaster.",
+    "New York Rangers vs. Calgary Flames, New York, United States Of America, Sat 28 Nov. Image: Ticketmaster.",
+    "Tommy Tiernan - World Tour of Galway, Galway, Ireland, Fri 11 Dec. Image: Ticketmaster."
+  ]
+}
