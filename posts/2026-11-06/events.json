@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "Z698xZC2Z16vZ608Aa",
+      "name": "THE AVALANCHES & SOFIA KOURTESIS - NO BAD DJS",
+      "url": "https://www.ticketmaster.de/event/the-avalanches--sofia-kourtesis-no-bad-djs-tickets/1007910149?language=en-us",
+      "date": "2026-12-05",
+      "time": "17:00:00",
+      "venue": "Haus der Visionäre",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917fISf",
+      "image": "https://s1.ticketm.net/dam/a/b98/774b7efe-1503-4828-8d44-944e75049b98_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vO8-z74",
+      "name": "Novulent - Live in Europe 2026",
+      "url": "https://www.ticketmaster.de/event/novulent-live-in-europe-2026-tickets/1810878115?language=en-us",
+      "date": "2026-12-07",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Cologne",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917qPU7",
+      "image": "https://s1.ticketm.net/dam/a/8e5/9f05f338-d9a9-4d39-bb2e-5d2d24ba88e5_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Novulent Tour 2026"
+    },
+    {
+      "id": "1AdfZbgGkDapQI3",
+      "name": "Beetlejuice",
+      "url": "https://theatre.ticketmaster.co.uk/book/1HM82-beetlejuice/#perf=1HM82-5M&date=2026-11-13&time=3.00PM",
+      "date": "2026-11-13",
+      "time": "14:30:00",
+      "venue": "Prince Edward Theatre",
+      "city": "London",
+      "countryCode": "GB",
+      "country": "Great Britain",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917Q8I7",
+      "image": "https://s1.ticketm.net/dam/a/5b5/1de6e373-881b-47dc-8a4a-d9e4eadd85b5_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18Q0cS3g25Aa64ZkRc",
+      "name": "Tablao Flamenco Las Tablas",
+      "url": "https://www.universe.com/events/tablao-flamenco-las-tablas-tickets-H5F34L?ref=ticketmaster",
+      "date": "2026-11-09",
+      "time": "19:00:00",
+      "venue": "Tablao Flamenco Las Tablas",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917OWjV",
+      "image": "https://images.universe.com/b727c205-999b-4dfd-9ed8-1c9f1d0dfe2d/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageWidth": 1024,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AbZkupGkexfrMN",
+      "name": "The Choir Of Man",
+      "url": "https://www.ticketmaster.ie/the-choir-of-man-dublin-11-11-2026/event/18006356A251EDE3",
+      "date": "2026-11-11",
+      "time": "19:30:00",
+      "venue": "Bord Gais Energy Theatre",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ9179237",
+      "image": "https://s1.ticketm.net/dam/a/7cd/e547ae58-d121-46ab-bfdf-cb1d6f87d7cd_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "THE AVALANCHES & SOFIA KOURTESIS - NO BAD DJS, Berlin, Germany, Sat 5 Dec. Image: Ticketmaster.",
+    "Novulent - Live in Europe 2026, Cologne, Germany, Mon 7 Dec. Image: Ticketmaster.",
+    "Beetlejuice, London, Great Britain, Fri 13 Nov. Image: Ticketmaster.",
+    "Tablao Flamenco Las Tablas, Madrid, Spain, Mon 9 Nov. Image: Ticketmaster.",
+    "The Choir Of Man, Dublin, Ireland, Wed 11 Nov. Image: Ticketmaster."
+  ]
+}
