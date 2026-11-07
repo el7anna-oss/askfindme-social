@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "17kZv0G65Ra4mgk",
+      "name": "Phoebe Bridgers",
+      "url": "https://www.ticketmaster.ie/phoebe-bridgers-dublin-24-11-2026/event/180064BBC956ED46",
+      "date": "2026-11-24",
+      "time": "18:30:00",
+      "venue": "3Arena",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917KN9V",
+      "image": "https://s1.ticketm.net/dam/a/8bf/03985c53-fb10-4d38-ab4f-662df14e78bf_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Gregory Crewdson, CDD approval in CMG-98768 for image bordering."
+    },
+    {
+      "id": "Z698xZ2qZ16v8svJ48",
+      "name": "THE SHEEPDOGS - Out All Night Tour",
+      "url": "https://www.ticketmaster.es/event/the-sheepdogs-out-all-night-tour-tickets/1431066550?language=en-us",
+      "date": "2026-12-05",
+      "time": "20:30:00",
+      "venue": "La 2 de Apolo",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ917C4pf",
+      "image": "https://s1.ticketm.net/dam/a/66b/d9b226bb-a98f-4025-b020-e8125eb6166b_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "k7vGF_a6ezmvd",
+      "name": "New York Giants vs. San Francisco 49ers",
+      "url": "https://www.ticketmaster.com/new-york-giants-vs-san-francisco-east-rutherford-new-jersey-12-06-2026/event/00006491C2E2E043",
+      "date": "2026-12-06",
+      "time": "13:00:00",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171oCf",
+      "image": "https://s1.ticketm.net/dam/a/d08/160b9eab-e52b-49eb-8413-6fecab653d08_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vkpxaPs",
+      "name": "47. Leverkusener Jazztage 2026 - Melody Gardot",
+      "url": "https://www.ticketmaster.de/event/47-leverkusener-jazztage-2026-melody-gardot-tickets/1196889971?language=en-us",
+      "date": "2026-11-11",
+      "time": "19:30:00",
+      "venue": "Forum Leverkusen, Terrassensaal",
+      "city": "Leverkusen",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917G1Yf",
+      "image": "https://s1.ticketm.net/dam/a/4c1/9ff0cabd-55e1-4c74-96e2-aa1f5f5834c1_SOURCE",
+      "imageWidth": 2625,
+      "imageCredit": "Melody Gardot Live"
+    },
+    {
+      "id": "Z698xZC2Z16vvOrdAO",
+      "name": "Pitbull - I'm Back!",
+      "url": "https://www.ticketmaster.de/event/pitbull-im-back-tickets/1060783160?language=en-us",
+      "date": "2026-11-16",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Dortmund",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917Gp10",
+      "image": "https://s1.ticketm.net/dam/a/d7f/51c44f52-ee24-4b0a-8d40-21b74e271d7f_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Phoebe Bridgers, Dublin, Ireland, Tue 24 Nov. Image: Ticketmaster.",
+    "THE SHEEPDOGS - Out All Night Tour, Barcelona, Spain, Sat 5 Dec. Image: Ticketmaster.",
+    "New York Giants vs. San Francisco 49ers, East Rutherford, United States Of America, Sun 6 Dec. Image: Ticketmaster.",
+    "47. Leverkusener Jazztage 2026 - Melody Gardot, Leverkusen, Germany, Wed 11 Nov. Image: Ticketmaster.",
+    "Pitbull - I'm Back!, Dortmund, Germany, Mon 16 Nov. Image: Ticketmaster."
+  ]
+}
