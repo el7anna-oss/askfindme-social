@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "G5diZ_o6tFIbT",
+      "name": "New York Knicks vs. Miami Heat",
+      "url": "https://www.ticketmaster.com/new-york-knicks-vs-miami-heat-new-york-new-york-11-27-2026/event/3B006511E922863F",
+      "date": "2026-11-27",
+      "time": "19:00:00",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171o57",
+      "image": "https://s1.ticketm.net/dam/a/948/1ab22e1c-86d1-44b3-8678-f6e9f441c948_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AvjZ_kGkSdgG8C",
+      "name": "Las Vegas Raiders vs. Los Angeles Chargers",
+      "url": "https://www.ticketmaster.com/las-vegas-raiders-vs-los-angeles-las-vegas-nevada-12-13-2026/event/1700646CC3D4C40E",
+      "date": "2026-12-13",
+      "time": "13:05:00",
+      "venue": "Allegiant Stadium",
+      "city": "Las Vegas",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171oVV",
+      "image": "https://s1.ticketm.net/dam/a/608/ad100b89-b729-4822-8165-5b626c21a608_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AzZkozGkds9edl",
+      "name": "Share a Suite - Niall Horan",
+      "url": "https://www.ticketmaster.ie/share-a-suite-niall-horan-belfast-15-11-2026/event/38006478F15C20EB",
+      "date": "2026-11-15",
+      "time": "18:30:00",
+      "venue": "The O2 Belfast",
+      "city": "Belfast",
+      "countryCode": "GB",
+      "country": "Great Britain",
+      "category": "Music",
+      "attractionId": "K8vZ9178ja7",
+      "image": "https://s1.ticketm.net/dam/a/329/be286a8a-e405-47ef-b3fb-b60f04dd7329_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18Qbc8EkDV-ZZv9ozs",
+      "name": "Tablao Flamenco 1911: El Tablao Más Antiguo del Mundo",
+      "url": "https://www.universe.com/events/tablao-flamenco-1911-el-tablao-mas-antiguo-del-mundo-tickets-96BY2G?ref=ticketmaster",
+      "date": "2026-11-11",
+      "time": "21:00:00",
+      "venue": "Tablao Flamenco 1911",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ917L9C0",
+      "image": "https://images.universe.com/efd2b4ee-1942-4f14-90f5-a22cfcc918a1/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageWidth": 1024,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AMZkfsGkeJDwKf",
+      "name": "Mariah Carey",
+      "url": "https://www.ticketmaster.co.uk/mariah-carey-manchester-02-12-2026/event/37006531A6EF24D4",
+      "date": "2026-12-02",
+      "time": "19:30:00",
+      "venue": "Co-op Live",
+      "city": "Manchester",
+      "countryCode": "GB",
+      "country": "Great Britain",
+      "category": "Music",
+      "attractionId": "K8vZ9171KB7",
+      "image": "https://s1.ticketm.net/dam/a/fa8/f8d47226-5d79-48f8-a42c-1db585c0afa8_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "New York Knicks vs. Miami Heat, New York, United States Of America, Fri 27 Nov. Image: Ticketmaster.",
+    "Las Vegas Raiders vs. Los Angeles Chargers, Las Vegas, United States Of America, Sun 13 Dec. Image: Ticketmaster.",
+    "Share a Suite - Niall Horan, Belfast, Great Britain, Sun 15 Nov. Image: Ticketmaster.",
+    "Tablao Flamenco 1911: El Tablao Más Antiguo del Mundo, Madrid, Spain, Wed 11 Nov. Image: Ticketmaster.",
+    "Mariah Carey, Manchester, Great Britain, Wed 2 Dec. Image: Ticketmaster."
+  ]
+}
