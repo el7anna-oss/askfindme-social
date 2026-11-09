@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "LvZ18Q2qtR4qtOOZlc9DR",
+      "name": "ELYELLA - Lo más importante - Barcelona",
+      "url": "https://www.universe.com/events/elyella-lo-mas-importante-barcelona-tickets-MRK0W1?ref=ticketmaster",
+      "date": "2026-11-14",
+      "time": "19:30:00",
+      "venue": "Sala Razzmatazz 1",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ9179F-V",
+      "image": "https://images.universe.com/527520ac-7583-4729-bcbc-1b46bd674a4a/-/resize/1200x/-/crop/480x480/364,0/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageWidth": 1024,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1kaxGwbZ",
+      "name": "WesGhost - If It's Not Forever",
+      "url": "https://www.ticketmaster.de/event/wesghost-if-its-not-forever-tickets/262332600?language=en-us",
+      "date": "2026-12-02",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917qA67",
+      "image": "https://s1.ticketm.net/dam/a/e62/de29a3f9-efa1-4e98-abef-a7fe93844e62_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "WesGhost Tickets"
+    },
+    {
+      "id": "Z698xZC2Z16vP_Gs78",
+      "name": "Strangelove - The DEPECHE MODE Experience Black Celebration 2026",
+      "url": "https://www.ticketmaster.de/event/strangelove-the-depeche-mode-experience-black-celebration-2026-tickets/1959331110?language=en-us",
+      "date": "2026-11-25",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Leipzig",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917uMC0",
+      "image": "https://s1.ticketm.net/dam/a/d33/ac0cab65-5367-4014-a723-a0b15a3d4d33_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZbpZ16vosbyGU",
+      "name": "& JULIET",
+      "url": "https://www.ticketmaster.nl/event/-juliet-tickets/1471639336?language=en-us",
+      "date": "2026-12-16",
+      "time": "19:30:00",
+      "venue": "Beatrix Theater",
+      "city": "Utrecht",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917j9D0",
+      "image": "https://s1.ticketm.net/dam/a/342/2b4c5f24-f484-42c9-94d4-38c83c315342_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZbpZ16vFN_gPz",
+      "name": "Hatsune Miku: Miku Expo 2026 Europe",
+      "url": "https://www.ticketmaster.nl/event/hatsune-miku-miku-expo-2026-europe-tickets/1223675978?language=en-us",
+      "date": "2026-11-15",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "category": "Music",
+      "attractionId": "K8vZ9173hY0",
+      "image": "https://s1.ticketm.net/dam/a/5f0/997858a4-dcc7-4096-95b3-0e1b23fe15f0_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "ELYELLA - Lo más importante - Barcelona, Barcelona, Spain, Sat 14 Nov. Image: Ticketmaster.",
+    "WesGhost - If It's Not Forever, Berlin, Germany, Wed 2 Dec. Image: Ticketmaster.",
+    "Strangelove - The DEPECHE MODE Experience Black Celebration 2026, Leipzig, Germany, Wed 25 Nov. Image: Ticketmaster.",
+    "& JULIET, Utrecht, Netherlands, Wed 16 Dec. Image: Ticketmaster.",
+    "Hatsune Miku: Miku Expo 2026 Europe, Amsterdam, Netherlands, Sun 15 Nov. Image: Ticketmaster."
+  ]
+}
