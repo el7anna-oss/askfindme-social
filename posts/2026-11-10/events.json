@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "G5vHZ_GwVIQjZ",
+      "name": "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2",
+      "url": "https://www.ticketmaster.co.uk/don-toliver-nitrous-octane-world-tour-leeds-18-11-2026/event/1F0064CCB4A1A700",
+      "date": "2026-11-18",
+      "time": "18:30:00",
+      "venue": "Leeds First Direct Bank Arena",
+      "city": "Leeds",
+      "countryCode": "GB",
+      "country": "Great Britain",
+      "category": "Music",
+      "attractionId": "K8vZ917bVK7",
+      "image": "https://s1.ticketm.net/dam/a/4d1/d0bc76d6-02e3-4e46-96fc-658377e464d1_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AvOZ_aGkBzwsI0",
+      "name": "Michelle Buteau - Surviving & Thriving Tour",
+      "url": "https://www.ticketmaster.ie/michelle-buteau-surviving-thriving-tour-dublin-14-11-2026/event/1800649EB8CB1A24",
+      "date": "2026-11-14",
+      "time": "18:30:00",
+      "venue": "Ambassador Theatre",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917oQ6V",
+      "image": "https://s1.ticketm.net/dam/a/122/f981ddc4-a193-4485-8334-f8fea14f3122_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AvOZ_kGkmbN5Ei",
+      "name": "Jessie Ware: The Superbloom Tour 2026",
+      "url": "https://www.ticketmaster.ie/jessie-ware-the-superbloom-tour-2026-dublin-02-12-2026/event/1800646B988CB9EC",
+      "date": "2026-12-02",
+      "time": "19:00:00",
+      "venue": "3Olympia Theatre",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ9172rxV",
+      "image": "https://s1.ticketm.net/dam/a/21a/0f1fc497-2b3f-4ad2-92ed-d54eb8ca021a_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Jessie Ware"
+    },
+    {
+      "id": "Z698xZC2Z1kFIrd-f",
+      "name": "Mo Gilligan: The Mo You Know",
+      "url": "https://www.ticketmaster.de/event/mo-gilligan-the-mo-you-know-tickets/228783854?language=en-us",
+      "date": "2026-11-21",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917p2j0",
+      "image": "https://s1.ticketm.net/dam/a/570/8bb30424-966d-4c2e-9ab8-4c7d0f8b1570_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vk9jp-3",
+      "name": "Muse: The Wow! Signal Europa Tour | Box seat in the Ticketmaster Suite",
+      "url": "https://www.ticketmaster.de/event/muse-the-wow-signal-europa-tour-%7C-box-seat-in-the-ticketmaster-suite-tickets/1197716852?language=en-us",
+      "date": "2026-11-18",
+      "time": "19:30:00",
+      "venue": "Uber Arena",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ9175E5V",
+      "image": "https://s1.ticketm.net/dam/a/859/993be3f1-1847-44ee-8998-ad2aebcfc859_SOURCE",
+      "imageWidth": 2428,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2, Leeds, Great Britain, Wed 18 Nov. Image: Ticketmaster.",
+    "Michelle Buteau - Surviving & Thriving Tour, Dublin, Ireland, Sat 14 Nov. Image: Ticketmaster.",
+    "Jessie Ware: The Superbloom Tour 2026, Dublin, Ireland, Wed 2 Dec. Image: Ticketmaster.",
+    "Mo Gilligan: The Mo You Know, Berlin, Germany, Sat 21 Nov. Image: Ticketmaster.",
+    "Muse: The Wow! Signal Europa Tour | Box seat in the Ticketmaster Suite, Berlin, Germany, Wed 18 Nov. Image: Ticketmaster."
+  ]
+}
