@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "G5vYZ_unWD9nb",
+      "name": "Sacramento Kings vs. Phoenix Suns",
+      "url": "https://www.ticketmaster.com/sacramento-kings-vs-phoenix-suns-sacramento-california-11-18-2026/event/1C0064DABDED7A98",
+      "date": "2026-11-18",
+      "time": "19:00:00",
+      "venue": "Golden 1 Center",
+      "city": "Sacramento",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171o50",
+      "image": "https://s1.ticketm.net/dam/a/022/6fdae8b5-6fa8-4793-8829-edef2a77a022_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZbpZ1ku37Ejz",
+      "name": "beabadoobee: The Powerlines Tour",
+      "url": "https://www.ticketmaster.nl/event/beabadoobee-the-powerlines-tour-tickets/352127738?language=en-us",
+      "date": "2026-12-03",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "category": "Music",
+      "attractionId": "K8vZ9179Xxf",
+      "image": "https://s1.ticketm.net/dam/a/696/f8aa5376-37a5-42a1-aec2-c6886ca22696_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "17kZv0G6uEtQozJ",
+      "name": "Nations Championship 2026 - Ireland V Fiji",
+      "url": "https://www.ticketmaster.ie/nations-championship-2026-ireland-v-fiji-dublin-14-11-2026/event/180064D9E9691E26",
+      "date": "2026-11-14",
+      "time": "20:10:00",
+      "venue": "Aviva Stadium",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Sports",
+      "attractionId": "K8vZ9175B7V",
+      "image": "https://s1.ticketm.net/dam/a/99d/fd4b71dc-688a-494c-b3bd-8760b1f9b99d_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZ2qZ16vA8Gvrd",
+      "name": "Polyphia: BE NOT AFRAID World Tour",
+      "url": "https://www.ticketmaster.es/event/polyphia-be-not-afraid-world-tour-tickets/1150301783?language=en-us",
+      "date": "2026-11-22",
+      "time": "20:30:00",
+      "venue": "Sala Razzmatazz 1",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ9173RN0",
+      "image": "https://s1.ticketm.net/dam/a/d0c/4429459a-7a75-4e95-899b-955fa0bded0c_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AbZkfNGkdxlrXv",
+      "name": "The Coronas",
+      "url": "https://www.ticketmaster.ie/the-coronas-dublin-12-12-2026/event/18006523E2ADEF81",
+      "date": "2026-12-12",
+      "time": "19:00:00",
+      "venue": "3Olympia Theatre",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917GLmV",
+      "image": "https://s1.ticketm.net/dam/a/48c/abb6b9ae-23ce-4ed4-b079-97d0b981548c_SOURCE",
+      "imageWidth": 2428,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Sacramento Kings vs. Phoenix Suns, Sacramento, United States Of America, Wed 18 Nov. Image: Ticketmaster.",
+    "beabadoobee: The Powerlines Tour, Amsterdam, Netherlands, Thu 3 Dec. Image: Ticketmaster.",
+    "Nations Championship 2026 - Ireland V Fiji, Dublin, Ireland, Sat 14 Nov. Image: Ticketmaster.",
+    "Polyphia: BE NOT AFRAID World Tour, Barcelona, Spain, Sun 22 Nov. Image: Ticketmaster.",
+    "The Coronas, Dublin, Ireland, Sat 12 Dec. Image: Ticketmaster."
+  ]
+}
