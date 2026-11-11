@@ -16,7 +16,7 @@ concurrency:
 
 jobs:
   draft:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
@@ -27,7 +27,14 @@ jobs:
 
       - run: npm install --no-audit --no-fund
 
-      - run: npx playwright install --with-deps chromium
+      - name: Install browser (retries if the runner network hiccups)
+        timeout-minutes: 6
+        run: |
+          for i in 1 2 3; do
+            npx playwright install --with-deps chromium && exit 0
+            echo "Attempt $i failed, retrying in 20s"; sleep 20
+          done
+          exit 1
 
       - name: Build the draft
         env:
