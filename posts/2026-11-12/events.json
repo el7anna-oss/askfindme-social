@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "Z7r9jZ1A7qs8A",
+      "name": "Interpol",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qs8A",
+      "date": "2026-11-30",
+      "time": "18:00:00",
+      "venue": "3Arena - Dublin",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ91753Nf",
+      "image": "https://s1.ticketm.net/dam/a/8e9/0abb8d34-41fa-46e8-936e-03b5db3818e9_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZbpZ16evA7Sjd",
+      "name": "Jimmy Carr: Laughs Funny",
+      "url": "https://www.ticketmaster.nl/event/jimmy-carr-laughs-funny-tickets/2045133703?language=en-us",
+      "date": "2026-12-13",
+      "time": "19:00:00",
+      "venue": "RAI Theater",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ9175lZV",
+      "image": "https://s1.ticketm.net/dam/a/42a/7b44038a-6509-40da-aacd-fd976255542a_SOURCE",
+      "imageWidth": 3840,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1kkZv0q6GA1UJGl",
+      "name": "An Evening in Ireland with Jeff Tweedy",
+      "url": "https://www.ticketmaster.ie/an-evening-in-ireland-with-jeff-galway-16-11-2026/event/180064747ADA632B",
+      "date": "2026-11-16",
+      "time": "19:00:00",
+      "venue": "Black Box",
+      "city": "Galway",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ9171ma7",
+      "image": "https://s1.ticketm.net/dam/a/eb7/1ee82edd-1502-4c13-849c-bff095700eb7_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZbpZ16v17-Fe7",
+      "name": "THE KEHLANI WORLD TOUR: EU & UK",
+      "url": "https://www.ticketmaster.nl/event/the-kehlani-world-tour-eu--uk-tickets/1284848084?language=en-us",
+      "date": "2026-12-06",
+      "time": "20:00:00",
+      "venue": "Ziggo Dome",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "category": "Music",
+      "attractionId": "K8vZ9173Ty7",
+      "image": "https://s1.ticketm.net/dam/a/5e1/bef571fc-a24d-477f-9858-a7cc7d0055e1_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18QLeBfHsCpOZMXaJj",
+      "name": "Kane Brown: Crowd Work King",
+      "url": "https://www.universe.com/events/kane-brown-crowd-work-king-tickets-L4WZRQ?ref=ticketmaster",
+      "date": "2026-11-18",
+      "time": "20:00:00",
+      "venue": "The Comedy Store",
+      "city": "London",
+      "countryCode": "GB",
+      "country": "Great Britain",
+      "category": "Music",
+      "attractionId": "K8vZ917fFLf",
+      "image": "https://s1.ticketm.net/dam/a/0b5/38d39f4d-7f55-48c9-af58-d41d9820a0b5_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Interpol, Dublin, Ireland, Mon 30 Nov. Image: Ticketmaster.",
+    "Jimmy Carr: Laughs Funny, Amsterdam, Netherlands, Sun 13 Dec. Image: Ticketmaster.",
+    "An Evening in Ireland with Jeff Tweedy, Galway, Ireland, Mon 16 Nov. Image: Ticketmaster.",
+    "THE KEHLANI WORLD TOUR: EU & UK, Amsterdam, Netherlands, Sun 6 Dec. Image: Ticketmaster.",
+    "Kane Brown: Crowd Work King, London, Great Britain, Wed 18 Nov. Image: Ticketmaster."
+  ]
+}
