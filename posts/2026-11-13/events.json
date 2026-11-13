@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "LvZ18QrIfcaMOTZZ0YjMY",
+      "name": "La Sonora Santanera | Köln",
+      "url": "https://www.universe.com/events/la-sonora-santanera-koln-tickets-2SM43V?ref=ticketmaster",
+      "date": "2026-11-22",
+      "time": "19:00:00",
+      "venue": "",
+      "city": "Cologne",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917GaQ7",
+      "image": "https://images.universe.com/ef192ba8-5fb5-4958-93bd-1684e51b1537/-/resize/1200x/-/crop/1104x1104/59,206/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageWidth": 1024,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AbZkfUGkd8HL5A",
+      "name": "Amble",
+      "url": "https://www.ticketmaster.ie/amble-co-mayo-18-12-2026/event/18006536D0F1F2C5",
+      "date": "2026-12-18",
+      "time": "19:00:00",
+      "venue": "TF Royal Theatre, Castlebar",
+      "city": "Co. Mayo",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917hlEV",
+      "image": "https://s1.ticketm.net/dam/a/ede/0b4ffcef-26c3-4531-b17d-8d627485cede_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "17uYv0G65whosMD",
+      "name": "Bryson Tiller Presents: The Neo Trapsoul Tour",
+      "url": "https://www.ticketmaster.co.uk/bryson-tiller-presents-the-neo-trapsoul-manchester-03-12-2026/event/370064BC9B471DFB",
+      "date": "2026-12-03",
+      "time": "18:30:00",
+      "venue": "Co-op Live",
+      "city": "Manchester",
+      "countryCode": "GB",
+      "country": "Great Britain",
+      "category": "Music",
+      "attractionId": "K8vZ917KBFf",
+      "image": "https://s1.ticketm.net/dam/a/433/021fc7b3-815d-4f88-9fce-83b31a96d433_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vPa-a3Z",
+      "name": "Tiffany Day - HALO TOUR EUROPE",
+      "url": "https://www.ticketmaster.de/event/tiffany-day-halo-tour-europe-tickets/1949849480?language=en-us",
+      "date": "2026-11-30",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Cologne",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917_zK0",
+      "image": "https://s1.ticketm.net/dam/a/a1d/b8f826cd-0e8b-4579-bf37-08c91ff5ea1d_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1A_Zkf6GkeEDFv9",
+      "name": "Suns vs Timberwolves: Sneaker Night",
+      "url": "https://www.ticketmaster.com/suns-vs-timberwolves-sneaker-night-phoenix-arizona-12-12-2026/event/19006507A7EC8057",
+      "date": "2026-12-12",
+      "time": "19:00:00",
+      "venue": "Mortgage Matchup Center",
+      "city": "Phoenix",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171oZf",
+      "image": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "La Sonora Santanera | Köln, Cologne, Germany, Sun 22 Nov. Image: Ticketmaster.",
+    "Amble, Co. Mayo, Ireland, Fri 18 Dec. Image: Ticketmaster.",
+    "Bryson Tiller Presents: The Neo Trapsoul Tour, Manchester, Great Britain, Thu 3 Dec. Image: Ticketmaster.",
+    "Tiffany Day - HALO TOUR EUROPE, Cologne, Germany, Mon 30 Nov. Image: Ticketmaster.",
+    "Suns vs Timberwolves: Sneaker Night, Phoenix, United States Of America, Sat 12 Dec. Image: Ticketmaster."
+  ]
+}
