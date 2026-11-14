@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "Z698xZC2Z16vGsqo8A",
+      "name": "greek - greek! Live",
+      "url": "https://www.ticketmaster.de/event/greek-greek-live-tickets/1331751405?language=en-us",
+      "date": "2026-11-26",
+      "time": "20:00:00",
+      "venue": "LARK",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917QbP0",
+      "image": "https://s1.ticketm.net/dam/a/17a/a6d40ab3-ba61-4ba4-9a58-86493469717a_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "G5vHZ_1xEgKki",
+      "name": "Barenaked Ladies",
+      "url": "https://www.ticketmaster.co.uk/barenaked-ladies-manchester-09-12-2026/event/1F0064A8A7D531AC",
+      "date": "2026-12-09",
+      "time": "19:00:00",
+      "venue": "Albert Hall",
+      "city": "Manchester",
+      "countryCode": "GB",
+      "country": "Great Britain",
+      "category": "Music",
+      "attractionId": "K8vZ91716if",
+      "image": "https://s1.ticketm.net/dam/a/d7c/a0764ca5-54aa-468d-a8b4-8a14c1964d7c_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZbpZ1kupJ7P8",
+      "name": "JOE JACKSON + BAND - HOPE AND FURY TOUR 2026",
+      "url": "https://www.ticketmaster.nl/event/joe-jackson--band-hope-and-fury-tour-2026-tickets/356984950?language=en-us",
+      "date": "2026-12-02",
+      "time": "20:00:00",
+      "venue": "Koninklijk Theater Carre",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "category": "Music",
+      "attractionId": "K8vZ9171b_7",
+      "image": "https://s1.ticketm.net/dam/a/51b/1c8fde45-36ff-4fe6-a244-12280aee251b_SOURCE",
+      "imageWidth": 2428,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZbpZ1kC8G74J",
+      "name": "TAYC – AFAS Live Amsterdam",
+      "url": "https://www.ticketmaster.nl/event/tayc--afas-live-amsterdam-tickets/390304566?language=en-us",
+      "date": "2026-11-22",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "category": "Music",
+      "attractionId": "K8vZ917_k-f",
+      "image": "https://s1.ticketm.net/dam/a/811/4b2ce450-3f38-4541-8038-5b76cb738811_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "G5vHZ_1DBJn8S",
+      "name": "Morrissey - Venue Premium Tickets",
+      "url": "https://www.ticketmaster.co.uk/morrissey-venue-premium-tickets-leeds-19-12-2026/event/1F0064AEFA9AA433",
+      "date": "2026-12-19",
+      "time": "18:00:00",
+      "venue": "Leeds First Direct Bank Arena",
+      "city": "Leeds",
+      "countryCode": "GB",
+      "country": "Great Britain",
+      "category": "Music",
+      "attractionId": "K8vZ9171Fvf",
+      "image": "https://s1.ticketm.net/dam/a/18b/d5cf4422-9c25-4a0c-ab52-44577d37f18b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "greek - greek! Live, Berlin, Germany, Thu 26 Nov. Image: Ticketmaster.",
+    "Barenaked Ladies, Manchester, Great Britain, Wed 9 Dec. Image: Ticketmaster.",
+    "JOE JACKSON + BAND - HOPE AND FURY TOUR 2026, Amsterdam, Netherlands, Wed 2 Dec. Image: Ticketmaster.",
+    "TAYC – AFAS Live Amsterdam, Amsterdam, Netherlands, Sun 22 Nov. Image: Ticketmaster.",
+    "Morrissey - Venue Premium Tickets, Leeds, Great Britain, Sat 19 Dec. Image: Ticketmaster."
+  ]
+}
