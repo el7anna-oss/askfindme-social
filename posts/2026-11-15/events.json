@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "17uYv0G6GCT-z5i",
+      "name": "Harry Potter and the Cursed Child - One Part Show",
+      "url": "https://theatre.ticketmaster.co.uk/book/1J44R-harry-potter-and-the-cursed-child-one-part/#perf=1J44R-27&date=2026-12-16&time=7.00PM",
+      "date": "2026-12-16",
+      "time": "19:00:00",
+      "venue": "Palace Theatre",
+      "city": "London",
+      "countryCode": "GB",
+      "country": "Great Britain",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917p1_0",
+      "image": "https://s1.ticketm.net/dam/a/be4/d80a13cc-d8e4-4960-8f07-ad051359abe4_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18QOUK2wx69YZ0rNwB",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-SJMR8X?ref=ticketmaster",
+      "date": "2026-11-19",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917L9jV",
+      "image": "https://s1.ticketm.net/dam/a/2d2/ce6302c9-93a4-451e-9d94-43192c09a2d2_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1kqVvIAU",
+      "name": "JULIA WOLF - Deep End World Tour 2026",
+      "url": "https://www.ticketmaster.de/event/julia-wolf-deep-end-world-tour-2026-tickets/774068176?language=en-us",
+      "date": "2026-12-04",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917_xcf",
+      "image": "https://s1.ticketm.net/dam/a/7b7/f3401d4a-7a7f-439b-b0ad-c7dd659087b7_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18QnVJT-6Oj-ZSGvaV",
+      "name": "ANABEL LEE - Todas las vidas - León",
+      "url": "https://www.universe.com/events/anabel-lee-todas-las-vidas-leon-tickets-N84KXC?ref=ticketmaster",
+      "date": "2026-11-19",
+      "time": "21:00:00",
+      "venue": "Gran Café de León",
+      "city": "León",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ917LZN7",
+      "image": "https://images.universe.com/418ae899-6175-480c-aad8-79e2ec2de0ee/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageWidth": 1024,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZ2qZ16vqpZ8v9",
+      "name": "Razorlight",
+      "url": "https://www.ticketmaster.es/event/razorlight-tickets/1756010057?language=en-us",
+      "date": "2026-11-18",
+      "time": "21:20:00",
+      "venue": "WOLF",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ9175JMf",
+      "image": "https://s1.ticketm.net/dam/a/b30/07c98026-a375-4854-8294-d2a9573fbb30_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Harry Potter and the Cursed Child - One Part Show, London, Great Britain, Wed 16 Dec. Image: Ticketmaster.",
+    "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!, Berlin, Germany, Thu 19 Nov. Image: Ticketmaster.",
+    "JULIA WOLF - Deep End World Tour 2026, Berlin, Germany, Fri 4 Dec. Image: Ticketmaster.",
+    "ANABEL LEE - Todas las vidas - León, León, Spain, Thu 19 Nov. Image: Ticketmaster.",
+    "Razorlight, Barcelona, Spain, Wed 18 Nov. Image: Ticketmaster."
+  ]
+}
