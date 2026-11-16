@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "1AbZk36GkeBWXfE",
+      "name": "Sevendust",
+      "url": "https://www.ticketmaster.ie/sevendust-dublin-09-12-2026/event/18006487BAF7E527",
+      "date": "2026-12-09",
+      "time": "19:00:00",
+      "venue": "The Academy",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ9171Qmf",
+      "image": "https://s1.ticketm.net/dam/a/2bd/34627c91-83e0-46a9-94d1-d5d940b7e2bd_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Sevendust"
+    },
+    {
+      "id": "Z698xZbpZ16voS8ZAP",
+      "name": "Dayseeker",
+      "url": "https://www.ticketmaster.nl/event/dayseeker-tickets/1473400165?language=en-us",
+      "date": "2026-12-18",
+      "time": "19:00:00",
+      "venue": "Melkweg",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "category": "Music",
+      "attractionId": "K8vZ917Kvqf",
+      "image": "https://s1.ticketm.net/dam/a/199/b6a4ab2e-de19-48a0-bdef-082962637199_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZbpZ1kF9eA-O",
+      "name": "The Script: Man In The Arena Tour",
+      "url": "https://www.ticketmaster.nl/event/the-script-man-in-the-arena-tour-tickets/217085860?language=en-us",
+      "date": "2026-11-27",
+      "time": "20:00:00",
+      "venue": "Ziggo Dome",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "category": "Music",
+      "attractionId": "K8vZ917GGs0",
+      "image": "https://s1.ticketm.net/dam/a/3a5/ce7517c6-e784-465e-88c7-ea54c2c063a5_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "vv17FZ_kGkUpFBjj",
+      "name": "Philadelphia Eagles vs. Pittsburgh Steelers",
+      "url": "https://www.ticketmaster.com/philadelphia-eagles-vs-pittsburgh-steelers-philadelphia-pennsylvania-11-22-2026/event/0200646D9623A71C",
+      "date": "2026-11-22",
+      "time": "13:00:00",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171oU0",
+      "image": "https://s1.ticketm.net/dam/a/602/6f9b50d7-e1ea-4a7e-a144-6b0a7577f602_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1k7ap6po",
+      "name": "Tinie Tempah - THE NIGHT´S NOT DEAD TOUR",
+      "url": "https://www.ticketmaster.de/event/tinie-tempah-the-nights-not-dead-tour-tickets/109587591?language=en-us",
+      "date": "2026-11-23",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917GP3V",
+      "image": "https://s1.ticketm.net/dam/a/405/6b1e61fa-53a5-4ede-8293-52a01449a405_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Tinie Tempah Tickets"
+    }
+  ],
+  "altTexts": [
+    "Sevendust, Dublin, Ireland, Wed 9 Dec. Image: Ticketmaster.",
+    "Dayseeker, Amsterdam, Netherlands, Fri 18 Dec. Image: Ticketmaster.",
+    "The Script: Man In The Arena Tour, Amsterdam, Netherlands, Fri 27 Nov. Image: Ticketmaster.",
+    "Philadelphia Eagles vs. Pittsburgh Steelers, Philadelphia, United States Of America, Sun 22 Nov. Image: Ticketmaster.",
+    "Tinie Tempah - THE NIGHT´S NOT DEAD TOUR, Berlin, Germany, Mon 23 Nov. Image: Ticketmaster."
+  ]
+}
