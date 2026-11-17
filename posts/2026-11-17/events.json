@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "G5viZ_8RsB25a",
+      "name": "Memphis Grizzlies vs. Phoenix Suns",
+      "url": "https://www.ticketmaster.com/memphis-grizzlies-vs-phoenix-suns-memphis-tennessee-12-20-2026/event/1B00650BF1E8F2C9",
+      "date": "2026-12-20",
+      "time": "15:00:00",
+      "venue": "FedExForum",
+      "city": "Memphis",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171Kg7",
+      "image": "https://s1.ticketm.net/dam/a/776/6e685963-bebc-4e28-80e5-db72b4915776_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AvOZbMGkR2qiks",
+      "name": "The Australian Pink Floyd",
+      "url": "https://www.ticketmaster.ie/the-australian-pink-floyd-dublin-08-12-2026/event/1800637BCF76C1B1",
+      "date": "2026-12-08",
+      "time": "19:00:00",
+      "venue": "3Olympia Theatre",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ9171ms7",
+      "image": "https://s1.ticketm.net/dam/a/58c/fbbe6178-2a5f-4b2c-8b9c-ca918764d58c_SOURCE",
+      "imageWidth": 6144,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AbZkfYGkew5TvX",
+      "name": "Home Alone in Concert",
+      "url": "https://www.ticketmaster.ie/home-alone-in-concert-dublin-21-12-2026/event/18006530B22FF07E",
+      "date": "2026-12-21",
+      "time": "19:00:00",
+      "venue": "3Arena",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917bza0",
+      "image": "https://s1.ticketm.net/dam/a/6b4/246fd87d-13d2-4263-8f7b-8bf846c056b4_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18QrcRyJmKh8ZvRlHU",
+      "name": "Bash Comedy auf St. Pauli",
+      "url": "https://www.universe.com/events/bash-comedy-auf-st-pauli-tickets-KR84FP?ref=ticketmaster",
+      "date": "2026-12-03",
+      "time": "19:00:00",
+      "venue": "STAGE 15",
+      "city": "Hamburg",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917GtvV",
+      "image": "https://s1.ticketm.net/dam/a/170/eba0b94f-b5de-45ec-9771-32d7b4117170_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "k7vGF_FN-PZB_",
+      "name": "New York Jets v. Denver Broncos",
+      "url": "https://www.ticketmaster.com/new-york-jets-v-denver-broncos-east-rutherford-new-jersey-12-13-2026/event/00006488E1940E99",
+      "date": "2026-12-13",
+      "time": "13:00:00",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171oGV",
+      "image": "https://s1.ticketm.net/dam/a/d64/bc7ee1fb-9740-4578-9a39-9006c9821d64_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Memphis Grizzlies vs. Phoenix Suns, Memphis, United States Of America, Sun 20 Dec. Image: Ticketmaster.",
+    "The Australian Pink Floyd, Dublin, Ireland, Tue 8 Dec. Image: Ticketmaster.",
+    "Home Alone in Concert, Dublin, Ireland, Mon 21 Dec. Image: Ticketmaster.",
+    "Bash Comedy auf St. Pauli, Hamburg, Germany, Thu 3 Dec. Image: Ticketmaster.",
+    "New York Jets v. Denver Broncos, East Rutherford, United States Of America, Sun 13 Dec. Image: Ticketmaster."
+  ]
+}
