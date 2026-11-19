@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "Z698xZC2Z1ku0_4FO",
+      "name": "Muna - Gets So Hot Tour",
+      "url": "https://www.ticketmaster.de/event/muna-gets-so-hot-tour-tickets/364655220?language=en-us",
+      "date": "2026-11-24",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Cologne",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917f2G7",
+      "image": "https://s1.ticketm.net/dam/a/205/4cf4ba0e-f146-4a87-9be6-5a2c4e963205_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1kkZv0a9GA1Afa3",
+      "name": "Take It To the Limit - a Celebration of the Eagles",
+      "url": "https://www.ticketmaster.ie/take-it-to-the-limit-a-co-mayo-02-01-2027/event/180064257A154252",
+      "date": "2027-01-02",
+      "time": "20:00:00",
+      "venue": "TF Royal Theatre, Castlebar",
+      "city": "Co. Mayo",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ91793d0",
+      "image": "https://s1.ticketm.net/dam/a/657/8979a4f4-02b6-4ac9-876d-063baac7d657_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "vvG17Z_CMAaMnY",
+      "name": "Boston Bruins vs. Winnipeg Jets",
+      "url": "https://www.ticketmaster.com/boston-bruins-vs-winnipeg-jets-boston-massachusetts-11-25-2026/event/010064EDC5277AB0",
+      "date": "2026-11-25",
+      "time": "19:00:00",
+      "venue": "TD Garden",
+      "city": "Boston",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171o27",
+      "image": "https://s1.ticketm.net/dam/a/75f/81bce5f8-fcec-43c1-8de0-9703096d075f_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "vv177Z_8GkwKwtkA",
+      "name": "Boston Celtics vs. Miami Heat",
+      "url": "https://www.ticketmaster.com/boston-celtics-vs-miami-heat-boston-massachusetts-12-25-2026/event/0100650C93CA9185",
+      "date": "2026-12-25",
+      "time": "14:30:00",
+      "venue": "TD Garden",
+      "city": "Boston",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ91718Xf",
+      "image": "https://s1.ticketm.net/dam/a/158/e8147ef7-aaf2-4be3-be49-815e08d32158_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1AMu319",
+      "name": "CIAO LUCIFER - ‚Sunset Riders‘ Tour 2026",
+      "url": "https://www.ticketmaster.de/event/ciao-lucifer-sunset-riders-tour-2026-tickets/37352297?language=en-us",
+      "date": "2026-11-24",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Jena",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917QR0f",
+      "image": "https://s1.ticketm.net/dam/a/acd/f3426f10-636c-40cf-bb6e-26cd2ff9dacd_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Muna - Gets So Hot Tour, Cologne, Germany, Tue 24 Nov. Image: Ticketmaster.",
+    "Take It To the Limit - a Celebration of the Eagles, Co. Mayo, Ireland, Sat 2 Jan. Image: Ticketmaster.",
+    "Boston Bruins vs. Winnipeg Jets, Boston, United States Of America, Wed 25 Nov. Image: Ticketmaster.",
+    "Boston Celtics vs. Miami Heat, Boston, United States Of America, Fri 25 Dec. Image: Ticketmaster.",
+    "CIAO LUCIFER - ‚Sunset Riders‘ Tour 2026, Jena, Germany, Tue 24 Nov. Image: Ticketmaster."
+  ]
+}
