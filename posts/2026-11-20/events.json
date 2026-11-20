@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "G5eVZ_kmUYmEd",
+      "name": "Carolina Panthers v Cincinnati Bengals",
+      "url": "https://www.ticketmaster.com/carolina-panthers-v-cincinnati-bengals-charlotte-north-carolina-12-20-2026/event/2D00646BB6C2E9C3",
+      "date": "2026-12-20",
+      "time": "13:00:00",
+      "venue": "Bank of America Stadium",
+      "city": "Charlotte",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171oPf",
+      "image": "https://s1.ticketm.net/dam/e/973/81fd3be0-c028-4d02-83b8-10f58ba21973_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "17GZv0G62R7MfnM",
+      "name": "Brooklyn Nets v. Dallas Mavericks",
+      "url": "https://www.ticketmaster.com/brooklyn-nets-v-dallas-mavericks-brooklyn-new-york-12-16-2026/event/300064FBC4DD4AB7",
+      "date": "2026-12-16",
+      "time": "19:30:00",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171o5f",
+      "image": "https://s1.ticketm.net/dam/a/593/de5707a0-fc3b-4ad8-bdfc-4f880b488593_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AbZk3aGkdEQQSr",
+      "name": "SLIFT",
+      "url": "https://www.ticketmaster.ie/slift-dublin-08-12-2026/event/18006489E769ACDE",
+      "date": "2026-12-08",
+      "time": "19:00:00",
+      "venue": "The Academy",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917_6V0",
+      "image": "https://s1.ticketm.net/dam/a/c90/e9b2b28d-5abf-460b-8484-4c20b1c3ec90_SOURCE",
+      "imageWidth": 3000,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1kvE86ft",
+      "name": "Rea Garvey’s Christmas Calling",
+      "url": "https://www.ticketmaster.de/event/rea-garveys-christmas-calling-tickets/67407529?language=en-us",
+      "date": "2026-11-26",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Baden-Baden",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917hZt7",
+      "image": "https://s1.ticketm.net/dam/a/498/7c364c9f-31fb-45ff-a009-fb9cff250498_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "17kZv0G65mTJjUU",
+      "name": "Ethan Regan - Young Regan Tour",
+      "url": "https://www.ticketmaster.ie/ethan-regan-young-regan-tour-dublin-03-12-2026/event/180064BBBF99CDB6",
+      "date": "2026-12-03",
+      "time": "20:00:00",
+      "venue": "The Workmans Club",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917jlkf",
+      "image": "https://s1.ticketm.net/dam/a/a7f/c6d4d242-e50f-447c-8545-26d42c3a3a7f_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ethan Regan"
+    }
+  ],
+  "altTexts": [
+    "Carolina Panthers v Cincinnati Bengals, Charlotte, United States Of America, Sun 20 Dec. Image: Ticketmaster.",
+    "Brooklyn Nets v. Dallas Mavericks, Brooklyn, United States Of America, Wed 16 Dec. Image: Ticketmaster.",
+    "SLIFT, Dublin, Ireland, Tue 8 Dec. Image: Ticketmaster.",
+    "Rea Garvey’s Christmas Calling, Baden-Baden, Germany, Thu 26 Nov. Image: Ticketmaster.",
+    "Ethan Regan - Young Regan Tour, Dublin, Ireland, Thu 3 Dec. Image: Ticketmaster."
+  ]
+}
