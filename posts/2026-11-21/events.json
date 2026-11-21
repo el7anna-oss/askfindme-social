@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "Z698xZC2Z1ApfOox",
+      "name": "SOPHIA - \"Durch die Blume\" - Tour 2026",
+      "url": "https://www.ticketmaster.de/event/sophia-durch-die-blume-tour-2026-tickets/16520462?language=en-us",
+      "date": "2026-12-15",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Bremen",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ9171C77",
+      "image": "https://s1.ticketm.net/dam/a/832/3033c6a3-f558-49af-8ecd-32d173d95832_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "17kZv0G6G2FdRCS",
+      "name": "Skerryvore",
+      "url": "https://www.ticketmaster.ie/skerryvore-dublin-11-12-2026/event/180064C3C80EF3B3",
+      "date": "2026-12-11",
+      "time": "19:00:00",
+      "venue": "Green Room at The Academy",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917CwJ0",
+      "image": "https://s1.ticketm.net/dam/a/0b8/bf1e65ad-a23f-4627-bade-8786761540b8_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Skerryvore"
+    },
+    {
+      "id": "Z698xZC2Z16evyjdOA",
+      "name": "GURRIERS - Nobody's Coming To Save You Tour 2026",
+      "url": "https://www.ticketmaster.de/event/gurriers-nobodys-coming-to-save-you-tour-2026-tickets/2079703805?language=en-us",
+      "date": "2026-11-24",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917_Uq0",
+      "image": "https://s1.ticketm.net/dam/a/017/47b9e8ca-30a0-4022-b3d2-bf015ae6f017_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Steve Gullick"
+    },
+    {
+      "id": "G5diZ_2ksMVoJ",
+      "name": "New York Rangers vs. Colorado Avalanche",
+      "url": "https://www.ticketmaster.com/new-york-rangers-vs-colorado-avalanche-new-york-new-york-12-05-2026/event/3B0064F1B1DF4466",
+      "date": "2026-12-05",
+      "time": "19:00:00",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171o87",
+      "image": "https://s1.ticketm.net/dam/a/ea0/6f2e2a07-db6a-4f14-85ed-ee9ec4970ea0_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "17kZv0G61sX-UrR",
+      "name": "Cory Wong",
+      "url": "https://www.ticketmaster.ie/cory-wong-dublin-01-12-2026/event/180064AC7E8767AF",
+      "date": "2026-12-01",
+      "time": "20:00:00",
+      "venue": "Vicar Street",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917pxl0",
+      "image": "https://s1.ticketm.net/dam/a/580/bbaadde5-9e4f-4cd3-884f-2efad317e580_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "SOPHIA - \"Durch die Blume\" - Tour 2026, Bremen, Germany, Tue 15 Dec. Image: Ticketmaster.",
+    "Skerryvore, Dublin, Ireland, Fri 11 Dec. Image: Ticketmaster.",
+    "GURRIERS - Nobody's Coming To Save You Tour 2026, Berlin, Germany, Tue 24 Nov. Image: Ticketmaster.",
+    "New York Rangers vs. Colorado Avalanche, New York, United States Of America, Sat 5 Dec. Image: Ticketmaster.",
+    "Cory Wong, Dublin, Ireland, Tue 1 Dec. Image: Ticketmaster."
+  ]
+}
