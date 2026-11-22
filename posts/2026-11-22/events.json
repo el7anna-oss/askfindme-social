@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "1AbZkfKGke-AaNL",
+      "name": "Nia Archives - Emotional World Tour",
+      "url": "https://www.ticketmaster.ie/nia-archives-emotional-world-tour-dublin-08-12-2026/event/18006513A11498DF",
+      "date": "2026-12-08",
+      "time": "20:00:00",
+      "venue": "Vicar Street",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917Qtif",
+      "image": "https://s1.ticketm.net/dam/a/3bf/1bef58d2-8ac9-44e7-8870-1e895b8fd3bf_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AvOZ_FGkBkrF8z",
+      "name": "Eagles of Death Metal",
+      "url": "https://www.ticketmaster.ie/eagles-of-death-metal-dublin-27-11-2026/event/1800648E86788438",
+      "date": "2026-11-27",
+      "time": "19:00:00",
+      "venue": "The Academy",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ9175Dj7",
+      "image": "https://s1.ticketm.net/dam/a/eb3/0ade9d43-0271-4e1b-ad86-398270068eb3_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z7r9jZ1AAZIZ-",
+      "name": "Utah Jazz vs. Phoenix Suns",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZIZ-",
+      "date": "2026-11-29",
+      "time": "15:00:00",
+      "venue": "Delta Center",
+      "city": "Salt Lake City",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171o5V",
+      "image": "https://s1.ticketm.net/dam/a/c81/2e56ca8f-774a-4ad7-b017-81e7292a1c81_SOURCE",
+      "imageWidth": 2200,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16evoQvfZ",
+      "name": "Cirque du Soleil ALIZÉ",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2051681500?language=en-us",
+      "date": "2026-11-27",
+      "time": "16:00:00",
+      "venue": "",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917bNRV",
+      "image": "https://s1.ticketm.net/dam/a/90f/9755f60d-6af7-4fab-a196-9e4e5adc390f_SOURCE",
+      "imageWidth": 2500,
+      "imageCredit": "Cirque du Soleil Alize Tickets"
+    },
+    {
+      "id": "Z698xZ2qZ16vPbxfAM",
+      "name": "COMBICHRIST + XPQ-21",
+      "url": "https://www.ticketmaster.es/event/combichrist--xpq-21-tickets/1958894177?language=en-us",
+      "date": "2026-12-04",
+      "time": "20:00:00",
+      "venue": "Salamandra Sala 1",
+      "city": "L'Hospitalet de Llobregat",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ917G7s7",
+      "image": "https://s1.ticketm.net/dam/a/3b2/ed999a0b-3e0c-4d46-8f3f-1b5a4a28d3b2_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Nia Archives - Emotional World Tour, Dublin, Ireland, Tue 8 Dec. Image: Ticketmaster.",
+    "Eagles of Death Metal, Dublin, Ireland, Fri 27 Nov. Image: Ticketmaster.",
+    "Utah Jazz vs. Phoenix Suns, Salt Lake City, United States Of America, Sun 29 Nov. Image: Ticketmaster.",
+    "Cirque du Soleil ALIZÉ, Berlin, Germany, Fri 27 Nov. Image: Ticketmaster.",
+    "COMBICHRIST + XPQ-21, L'Hospitalet de Llobregat, Spain, Fri 4 Dec. Image: Ticketmaster."
+  ]
+}
