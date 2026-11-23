@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "17kZv0G6G2fpAt_",
+      "name": "Kevin Atwater",
+      "url": "https://www.ticketmaster.ie/kevin-atwater-dublin-12-12-2026/event/180064C3D4585A59",
+      "date": "2026-12-12",
+      "time": "19:00:00",
+      "venue": "Academy 2",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917hwBV",
+      "image": "https://s1.ticketm.net/dam/a/9e9/1a61f486-6dbf-4165-b539-fb0ee8c8e9e9_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18QQe5eKPq2OZw5XS2",
+      "name": "Empire of Giants Live in München",
+      "url": "https://www.universe.com/events/empire-of-giants-live-in-munchen-tickets-S672XP?ref=ticketmaster",
+      "date": "2026-11-27",
+      "time": "19:00:00",
+      "venue": "",
+      "city": "Munich",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917LG67",
+      "image": "https://s1.ticketm.net/dam/a/ac4/40904768-5ec8-4d66-8cea-2c94cf021ac4_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_Aby",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster",
+      "date": "2026-11-27",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917q4nf",
+      "image": "https://images.universe.com/b593400b-9a9b-49e2-9b6c-6fdb0bea9acf/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageWidth": 1024,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18QRmZ-znXFDAgOtrF",
+      "name": "El Show De Los 90s. Para reir, cantar y bailar",
+      "url": "https://www.universe.com/events/el-show-de-los-90s-para-reir-cantar-y-bailar-tickets-82CQZW?ref=ticketmaster",
+      "date": "2026-11-28",
+      "time": "21:00:00",
+      "venue": "Teatro Pavón",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917x89f",
+      "image": "https://images.universe.com/be381de8-fbd1-45c3-a84a-497a1d400265/-/resize/1200x/-/crop/1200x1200/0,223/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageWidth": 1024,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "vv17bZ_kGkm76pBc",
+      "name": "Kansas City Chiefs v San Francisco 49ers",
+      "url": "https://www.ticketmaster.com/kansas-city-chiefs-v-san-francisco-kansas-city-missouri-12-27-2026/event/0600646B841D6EAD",
+      "date": "2026-12-27",
+      "time": "15:25:00",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171oMf",
+      "image": "https://s1.ticketm.net/dam/a/a04/49007849-3947-4b1f-bbfb-55ece37a8a04_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Kevin Atwater, Dublin, Ireland, Sat 12 Dec. Image: Ticketmaster.",
+    "Empire of Giants Live in München, Munich, Germany, Fri 27 Nov. Image: Ticketmaster.",
+    "Comedy in an Art Gallery (Mitte) - Friday 8pm, Berlin, Germany, Fri 27 Nov. Image: Ticketmaster.",
+    "El Show De Los 90s. Para reir, cantar y bailar, Madrid, Spain, Sat 28 Nov. Image: Ticketmaster.",
+    "Kansas City Chiefs v San Francisco 49ers, Kansas City, United States Of America, Sun 27 Dec. Image: Ticketmaster."
+  ]
+}
