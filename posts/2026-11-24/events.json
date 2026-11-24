@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "1Av0Z_kGkM_T5Tn",
+      "name": "Arizona Cardinals v Las Vegas Raiders",
+      "url": "https://www.ticketmaster.com/arizona-cardinals-v-las-vegas-raiders-glendale-arizona-01-03-2027/event/1900646DD9FCBFEA",
+      "date": "2027-01-03",
+      "time": "14:05:00",
+      "venue": "State Farm Stadium",
+      "city": "Glendale",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ917198f",
+      "image": "https://s1.ticketm.net/dam/a/6d2/cdcd57a4-1e15-4b06-b1bc-6196b4a016d2_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "vvG1IZ_kpF10fc",
+      "name": "Los Angeles Rams vs. Kansas City Chiefs",
+      "url": "https://www.ticketmaster.com/los-angeles-rams-vs-kansas-city-inglewood-california-12-03-2026/event/0A006465882A452D",
+      "date": "2026-12-03",
+      "time": "17:15:00",
+      "venue": "SoFi Stadium",
+      "city": "Inglewood",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ91719t0",
+      "image": "https://s1.ticketm.net/dam/a/67f/3cfc8709-40a2-4146-954d-aeb4ae2b567f_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16v0pqxAS",
+      "name": "Ibeyi",
+      "url": "https://www.ticketmaster.de/event/ibeyi-tickets/1916762173?language=en-us",
+      "date": "2026-12-16",
+      "time": "21:00:00",
+      "venue": "",
+      "city": "Cologne",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ9173MWf",
+      "image": "https://s1.ticketm.net/dam/a/053/6dbde6c0-7e5d-43cc-8fa9-d2ae69b8e053_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18QN1iLo8k48vGMZ43",
+      "name": "HAMBURG | Old but Gold Ü30 Hip Hop Party w/ Denyo (DJ Set + Live) @ Docks",
+      "url": "https://www.universe.com/events/hamburg-old-but-gold-u30-hip-hop-party-w-denyo-dj-set-live-docks-tickets-WPLK36?ref=ticketmaster",
+      "date": "2026-11-28",
+      "time": "22:00:00",
+      "venue": "",
+      "city": "Hamburg",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917rD0f",
+      "image": "https://s1.ticketm.net/dam/a/a0f/74015971-c3dc-4b13-a489-5251ff7a8a0f_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18QmwEQtiWSKgP7qQ8",
+      "name": "The Loved Ones",
+      "url": "https://www.universe.com/events/the-loved-ones-tickets-YNFWKS?ref=ticketmaster",
+      "date": "2026-12-01",
+      "time": "20:00:00",
+      "venue": "Aclam Club",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ917GGuV",
+      "image": "https://images.universe.com/cae9c52d-99aa-4523-a5e4-cd885388a389/-/resize/1200x/-/crop/857x857/107,0/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageWidth": 1024,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Arizona Cardinals v Las Vegas Raiders, Glendale, United States Of America, Sun 3 Jan. Image: Ticketmaster.",
+    "Los Angeles Rams vs. Kansas City Chiefs, Inglewood, United States Of America, Thu 3 Dec. Image: Ticketmaster.",
+    "Ibeyi, Cologne, Germany, Wed 16 Dec. Image: Ticketmaster.",
+    "HAMBURG | Old but Gold Ü30 Hip Hop Party w/ Denyo (DJ Set + Live) @ Docks, Hamburg, Germany, Sat 28 Nov. Image: Ticketmaster.",
+    "The Loved Ones, Barcelona, Spain, Tue 1 Dec. Image: Ticketmaster."
+  ]
+}
