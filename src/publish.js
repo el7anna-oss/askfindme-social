@@ -36,13 +36,11 @@ try {
 } catch {
   // alt texts are optional
 }
-// the cover and contact slides are optional: the alt texts follow the images that are really in the draft
-const hasCover = files.some((f) => f.endsWith("-cover.jpg"));
-const hasContact = files.some((f) => f.endsWith("-contact.jpg"));
+// cover + one per event + contact slide
 const altTexts = [
-  ...(hasCover ? ["askfindme: events worth the flight"] : []),
+  "askfindme: events worth the flight",
   ...alts,
-  ...(hasContact ? [`Contact askfindme: ${config.site}, ${config.email}`] : []),
+  `Contact askfindme: ${config.site}, ${config.email}`,
 ].slice(0, files.length);
 
 const missing = [];
@@ -95,7 +93,7 @@ for (const url of imageUrls) {
 }
 
 try {
-  const result = await publishCarousel({ ig: config.ig, imageUrls, altTexts, caption });
+  const result = await publishCarousel({ ig: config.ig, imageUrls, altTexts, caption, pollDelayMs: Number(process.env.IG_POLL_MS) || undefined });
   await writeFile(marker, JSON.stringify({ ...result, publishedAt: new Date().toISOString() }, null, 2), "utf8");
   console.log(`Published. ${result.permalink || "(link unavailable)"}`);
 } catch (err) {

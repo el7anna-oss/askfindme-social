@@ -21,9 +21,13 @@ async function call(ig, method, path, body) {
   if (!res.ok || json.error) {
     const e = json.error || {};
     const code = e.code !== undefined ? ` code ${e.code}${e.error_subcode ? "/" + e.error_subcode : ""}` : "";
-    throw new Error(
+    const err = new Error(
       `Instagram API ${method} ${path.split("?")[0].replace(/\d{6,}/g, "<id>")} failed: HTTP ${res.status}${code} ${e.message || json.raw || ""}`.trim()
     );
+    err.status = res.status;
+    err.code = e.code;
+    err.subcode = e.error_subcode;
+    throw err;
   }
   return json;
 }
@@ -38,6 +42,26 @@ async function waitReady(ig, containerId, { tries = 20, delayMs = 3000 } = {}) {
     await sleep(delayMs);
   }
   throw new Error("Instagram media is still processing after waiting. Try again later.");
+}
+
+// Instagram sometimes answers media_publish with HTTP 403 (code 4 / 2207051, "Application request
+// limit reached") even though the post WAS published. Before calling that a failure, look at the
+// newest posts on the account: if one has our caption and was created just now, the publish worked.
+async function findJustPublished(ig, caption, sinceMs, { tries = 4, delayMs = 5000 } = {}) {
+  const head = caption.slice(0, 60);
+  for (let i = 0; i < tries; i++) {
+    await sleep(delayMs);
+    try {
+      const list = await call(ig, "GET", `/${ig.userId}/media?fields=id,timestamp,caption,permalink&limit=5`);
+      const hit = (list.data || []).find(
+        (m) => (m.caption || "").slice(0, 60) === head && Date.parse(m.timestamp) >= sinceMs
+      );
+      if (hit) return hit;
+    } catch {
+      // keep trying; the lookup itself may be throttled
+    }
+  }
+  return null;
 }
 
 export async function publishCarousel({ ig, imageUrls, altTexts = [], caption, pollDelayMs = 3000 }) {
@@ -62,14 +86,28 @@ export async function publishCarousel({ ig, imageUrls, altTexts = [], caption, p
   });
   await waitReady(ig, container.id, { delayMs: pollDelayMs });
 
-  const published = await call(ig, "POST", `/${ig.userId}/media_publish`, { creation_id: container.id });
-
-  let permalink = "";
+  const startedAt = Date.now() - 60_000;
+  let published;
+  let recovered = false;
   try {
-    const info = await call(ig, "GET", `/${published.id}?fields=permalink`);
-    permalink = info.permalink || "";
-  } catch {
-    // the post is live even if the link lookup fails
+    published = await call(ig, "POST", `/${ig.userId}/media_publish`, { creation_id: container.id });
+  } catch (err) {
+    if (err.status !== 403 && err.code !== 4) throw err;
+    const hit = await findJustPublished(ig, caption, startedAt, { delayMs: pollDelayMs });
+    if (!hit) throw err;
+    published = { id: hit.id, permalink: hit.permalink || "" };
+    recovered = true;
+    console.log("Instagram answered with an error, but the post is live. Treating it as published.");
   }
-  return { id: published.id, permalink };
+
+  let permalink = published.permalink || "";
+  if (!permalink) {
+    try {
+      const info = await call(ig, "GET", `/${published.id}?fields=permalink`);
+      permalink = info.permalink || "";
+    } catch {
+      // the post is live even if the link lookup fails
+    }
+  }
+  return { id: published.id, permalink, ...(recovered ? { recoveredFromError: true } : {}) };
 }
