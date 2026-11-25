@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "G5dIZ_6mZe7r1",
+      "name": "Houston Texans vs. Baltimore Ravens",
+      "url": "https://www.ticketmaster.com/houston-texans-vs-baltimore-ravens-houston-texas-11-29-2026/event/3A00647B8008478A",
+      "date": "2026-11-29",
+      "time": "12:00:00",
+      "venue": "Reliant Stadium",
+      "city": "Houston",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ91756Kf",
+      "image": "https://s1.ticketm.net/dam/a/ef8/1374da28-456b-4590-86f2-b6c7ba8dbef8_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AvOZ_aGkmPoHlW",
+      "name": "Green Lung + High On Fire + Gnome",
+      "url": "https://www.ticketmaster.ie/green-lung-high-on-fire-gnome-dublin-19-12-2026/event/1800649BA547CAFD",
+      "date": "2026-12-19",
+      "time": "18:00:00",
+      "venue": "The Academy",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917_Y0f",
+      "image": "https://s1.ticketm.net/dam/a/5fe/88e71fbc-5e30-4892-886e-24c801ef55fe_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18QEvf_O0XOeigQR-v",
+      "name": "HOLE FULL OF LOVE AC/DC TRIBUTE",
+      "url": "https://www.universe.com/events/hole-full-of-love-ac-dc-tribute-tickets-KTNDWF?ref=ticketmaster",
+      "date": "2026-11-28",
+      "time": "19:00:00",
+      "venue": "Treffpunkt Neu-Isenburg",
+      "city": "Neu-Isenburg",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917GoS7",
+      "image": "https://s1.ticketm.net/dam/a/c16/0db983a1-d661-4a63-9986-efe910c60c16_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Hole Full of Love Tickets"
+    },
+    {
+      "id": "1AvOZ_oGkRPWiRH",
+      "name": "The 2 Johnnies",
+      "url": "https://www.ticketmaster.ie/the-2-johnnies-dublin-19-12-2026/event/1800651BE5F6CBFC",
+      "date": "2026-12-19",
+      "time": "18:30:00",
+      "venue": "3Arena",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ9179EU7",
+      "image": "https://s1.ticketm.net/dam/a/d50/76d682b9-ca5d-4f6a-be1c-ae5c0ad66d50_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vxbjYQ9",
+      "name": "Die Weihnachtsbäckerei",
+      "url": "https://www.ticketmaster.de/event/die-weihnachtsbackerei-tickets/1898730697?language=en-us",
+      "date": "2026-11-29",
+      "time": "14:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ9179Yz7",
+      "image": "https://s1.ticketm.net/dam/a/df3/b67478f6-2f08-4f4f-99b6-cec57cb35df3_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Houston Texans vs. Baltimore Ravens, Houston, United States Of America, Sun 29 Nov. Image: Ticketmaster.",
+    "Green Lung + High On Fire + Gnome, Dublin, Ireland, Sat 19 Dec. Image: Ticketmaster.",
+    "HOLE FULL OF LOVE AC/DC TRIBUTE, Neu-Isenburg, Germany, Sat 28 Nov. Image: Ticketmaster.",
+    "The 2 Johnnies, Dublin, Ireland, Sat 19 Dec. Image: Ticketmaster.",
+    "Die Weihnachtsbäckerei, Berlin, Germany, Sun 29 Nov. Image: Ticketmaster."
+  ]
+}
