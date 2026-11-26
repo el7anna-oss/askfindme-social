@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "vv1A6ZkfkGkenlJ8H",
+      "name": "Monster Jam",
+      "url": "https://www.ticketmaster.com/monster-jam-milwaukee-wisconsin-01-09-2027/event/07006506AAAE643C",
+      "date": "2027-01-09",
+      "time": "12:00:00",
+      "venue": "Fiserv Forum",
+      "city": "Milwaukee",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ917uyff",
+      "image": "https://s1.ticketm.net/dam/a/648/bee96ceb-7d32-4b5d-bb15-6a8615501648_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vbY4I06",
+      "name": "CHLOE SLATER - riot youth tour",
+      "url": "https://www.ticketmaster.de/event/chloe-slater-riot-youth-tour-tickets/1630568907?language=en-us",
+      "date": "2026-12-01",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917q1g0",
+      "image": "https://s1.ticketm.net/dam/a/b3c/3d9839bb-d067-44ad-90da-d9a96edffb3c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Chloe Slayter Live"
+    },
+    {
+      "id": "1AvOZ_dGksWBA2-",
+      "name": "Jarlath Regan",
+      "url": "https://www.ticketmaster.ie/jarlath-regan-co-mayo-09-01-2027/event/1800643C7DE853E1",
+      "date": "2027-01-09",
+      "time": "20:00:00",
+      "venue": "TF Royal Theatre, Castlebar",
+      "city": "Co. Mayo",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917GfIV",
+      "image": "https://s1.ticketm.net/dam/a/bc9/b44e9786-6611-4c1f-82c5-fb95b7799bc9_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18Qj_bFNVhYYZzIdKU",
+      "name": "Ben Wood Inferno",
+      "url": "https://www.universe.com/events/ben-wood-inferno-tickets-62SDLW?ref=ticketmaster",
+      "date": "2026-12-03",
+      "time": "19:00:00",
+      "venue": "Ponyhof Club",
+      "city": "Frankfurt am Main",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917LPDV",
+      "image": "https://s1.ticketm.net/dam/a/af4/e717db24-cfde-4f32-aa54-40111587caf4_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZ2qZ1kpAj0eo",
+      "name": "Grecas",
+      "url": "https://www.ticketmaster.es/event/grecas-tickets/585724091?language=en-us",
+      "date": "2026-11-29",
+      "time": "21:00:00",
+      "venue": "Sant Jordi Club",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ917L6I7",
+      "image": "https://s1.ticketm.net/dam/a/b4d/22aae869-cb75-4817-b6ec-c85633f11b4d_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Monster Jam, Milwaukee, United States Of America, Sat 9 Jan. Image: Ticketmaster.",
+    "CHLOE SLATER - riot youth tour, Berlin, Germany, Tue 1 Dec. Image: Ticketmaster.",
+    "Jarlath Regan, Co. Mayo, Ireland, Sat 9 Jan. Image: Ticketmaster.",
+    "Ben Wood Inferno, Frankfurt am Main, Germany, Thu 3 Dec. Image: Ticketmaster.",
+    "Grecas, Barcelona, Spain, Sun 29 Nov. Image: Ticketmaster."
+  ]
+}
