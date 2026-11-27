@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "LvZ18QRcHSCsh2eR9y6ca",
+      "name": "Una cita con Jorge Cremades",
+      "url": "https://www.universe.com/events/una-cita-con-jorge-cremades-tickets-06F14D?ref=ticketmaster",
+      "date": "2026-11-28",
+      "time": "21:30:00",
+      "venue": "Palacio de la Prensa",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917x2N7",
+      "image": "https://images.universe.com/065cae63-fa30-48a9-bd74-e0fa4ebf8416/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageWidth": 1024,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "17kZv0G6urZxchx",
+      "name": "The High Kings",
+      "url": "https://www.ticketmaster.ie/the-high-kings-kilkenny-28-12-2026/event/180064D7808AD6E2",
+      "date": "2026-12-28",
+      "time": "20:00:00",
+      "venue": "The Hub At Cillin Hill",
+      "city": "Kilkenny",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Music",
+      "attractionId": "K8vZ917Ko5f",
+      "image": "https://s1.ticketm.net/dam/a/01f/12947f38-09e6-4db7-b026-ba7aa1adf01f_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vGPPVby",
+      "name": "VOILÀ presents MOONBLOOM: Where Music Meets Magic",
+      "url": "https://www.ticketmaster.de/event/voila-presents-moonbloom-where-music-meets-magic-tickets/1325974639?language=en-us",
+      "date": "2026-12-08",
+      "time": "19:30:00",
+      "venue": "",
+      "city": "Hamburg",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917hKRV",
+      "image": "https://s1.ticketm.net/dam/a/309/56441b7f-08f7-4739-914d-00356a9d6309_SOURCE",
+      "imageWidth": 2457,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vbbb4F7",
+      "name": "Tarmo Peltokoski & Hong Kong Philharmonic Orchestra",
+      "url": "https://www.ticketmaster.de/event/tarmo-peltokoski--hong-kong-philharmonic-orchestra-tickets/1618615204?language=en-us",
+      "date": "2026-12-03",
+      "time": "20:00:00",
+      "venue": "",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917O7Tf",
+      "image": "https://s1.ticketm.net/dam/a/113/8d5dd10f-4848-4b31-a33e-d2ccea05a113_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "LvZ18QI5UY4Jt2wVygP0H",
+      "name": "Neal Sugarman Organ Combo",
+      "url": "https://www.universe.com/events/neal-sugarman-organ-combo-tickets-4P52TH?ref=ticketmaster",
+      "date": "2026-12-02",
+      "time": "20:00:00",
+      "venue": "Aclam Club",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "country": "Spain",
+      "category": "Music",
+      "attractionId": "K8vZ917-_OV",
+      "image": "https://images.universe.com/e5a32a48-ddba-494a-9586-fde06f4e7e29/-/resize/1200x/-/crop/1200x1200/0,0/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+      "imageWidth": 1024,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Una cita con Jorge Cremades, Madrid, Spain, Sat 28 Nov. Image: Ticketmaster.",
+    "The High Kings, Kilkenny, Ireland, Mon 28 Dec. Image: Ticketmaster.",
+    "VOILÀ presents MOONBLOOM: Where Music Meets Magic, Hamburg, Germany, Tue 8 Dec. Image: Ticketmaster.",
+    "Tarmo Peltokoski & Hong Kong Philharmonic Orchestra, Berlin, Germany, Thu 3 Dec. Image: Ticketmaster.",
+    "Neal Sugarman Organ Combo, Barcelona, Spain, Wed 2 Dec. Image: Ticketmaster."
+  ]
+}
