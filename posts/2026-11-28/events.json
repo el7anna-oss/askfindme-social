@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": "Z698xZC2Z1kq-7oA9",
+      "name": "Ulle & Rick - Live auf Tour 2026",
+      "url": "https://www.ticketmaster.de/event/ulle--rick-live-auf-tour-2026-tickets/761111157?language=en-us",
+      "date": "2026-12-04",
+      "time": "20:00:00",
+      "venue": "Colosseum",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917O787",
+      "image": "https://s1.ticketm.net/dam/a/a78/0827453e-6fe6-426b-9703-830a86c6ca78_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "17uYv0G6uNrBc_1",
+      "name": "Don Toliver- Venue Premium Tickets",
+      "url": "https://www.ticketmaster.co.uk/don-toliver-venue-premium-tickets-london-14-12-2026/event/370064D8DEEAD64A",
+      "date": "2026-12-14",
+      "time": "18:00:00",
+      "venue": "OVO Arena Wembley",
+      "city": "London",
+      "countryCode": "GB",
+      "country": "Great Britain",
+      "category": "Music",
+      "attractionId": "K8vZ917bVK7",
+      "image": "https://s1.ticketm.net/dam/a/4d1/d0bc76d6-02e3-4e46-96fc-658377e464d1_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1k7YOZJp",
+      "name": "RHYTHM OF THE DANCE",
+      "url": "https://www.ticketmaster.de/event/rhythm-of-the-dance-tickets/130800996?language=en-us",
+      "date": "2027-01-10",
+      "time": "18:00:00",
+      "venue": "Europahalle",
+      "city": "Trier",
+      "countryCode": "DE",
+      "country": "Germany",
+      "category": "Music",
+      "attractionId": "K8vZ917GO17",
+      "image": "https://s1.ticketm.net/dam/a/cd5/5960bc67-25ee-4879-a93d-55a1e19b3cd5_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Rhythm of the Dance Tickets"
+    },
+    {
+      "id": "vvG18Z_2e8L9xB",
+      "name": "Chicago Blackhawks vs. Utah Mammoth",
+      "url": "https://www.ticketmaster.com/chicago-blackhawks-vs-utah-mammoth-chicago-illinois-12-12-2026/event/040064F0907D78BA",
+      "date": "2026-12-12",
+      "time": "18:00:00",
+      "venue": "United Center",
+      "city": "Chicago",
+      "countryCode": "US",
+      "country": "United States Of America",
+      "category": "Sports",
+      "attractionId": "K8vZ9171oz0",
+      "image": "https://s1.ticketm.net/dam/a/086/700ab6d7-af21-4012-a38d-51f876a9b086_SOURCE",
+      "imageWidth": 2048,
+      "imageCredit": "Ticketmaster"
+    },
+    {
+      "id": "1AbZkfwGkeYDLLh",
+      "name": "Foil, Arms & Hog - Smithereens",
+      "url": "https://www.ticketmaster.ie/foil-arms-hog-smithereens-dublin-08-01-2027/event/18006532B0EDF7DB",
+      "date": "2027-01-08",
+      "time": "20:00:00",
+      "venue": "Vicar Street",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "country": "Ireland",
+      "category": "Arts & Theatre",
+      "attractionId": "K8vZ917CJ_7",
+      "image": "https://s1.ticketm.net/dam/a/d1e/f5abd41b-efd8-411a-b5e4-24c22aac5d1e_SOURCE",
+      "imageWidth": 2426,
+      "imageCredit": "Ticketmaster"
+    }
+  ],
+  "altTexts": [
+    "Ulle & Rick - Live auf Tour 2026, Berlin, Germany, Fri 4 Dec. Image: Ticketmaster.",
+    "Don Toliver- Venue Premium Tickets, London, Great Britain, Mon 14 Dec. Image: Ticketmaster.",
+    "RHYTHM OF THE DANCE, Trier, Germany, Sun 10 Jan. Image: Ticketmaster.",
+    "Chicago Blackhawks vs. Utah Mammoth, Chicago, United States Of America, Sat 12 Dec. Image: Ticketmaster.",
+    "Foil, Arms & Hog - Smithereens, Dublin, Ireland, Fri 8 Jan. Image: Ticketmaster."
+  ]
+}
